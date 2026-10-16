@@ -1,0 +1,3706 @@
+{
+  "by_occupation": {
+    "0051": {
+      "men": "LEU0251B21F00",
+      "women": "LEU0251B22000",
+      "women_pct_of_men": "LEU0251B22100"
+    },
+    "0052": {
+      "men": "LEU0251B22300",
+      "women": "LEU0251B22400",
+      "women_pct_of_men": "LEU0251B22500"
+    },
+    "0101": {
+      "men": "LEU0251B22700",
+      "women": "LEU0251B22800",
+      "women_pct_of_men": "LEU0251B22900"
+    },
+    "0102": {
+      "men": "LEU0251B22B00",
+      "women": "LEU0251B22C00",
+      "women_pct_of_men": "LEU0251B22D00"
+    },
+    "0426": {
+      "men": "LEU0251B22F00",
+      "women": "LEU0251B23000",
+      "women_pct_of_men": "LEU0251B23100"
+    },
+    "0440": {
+      "men": "LEU0251B23300",
+      "women": "LEU0251B23400",
+      "women_pct_of_men": "LEU0251B23500"
+    },
+    "0705": {
+      "men": "LEU0251B23700",
+      "women": "LEU0251B23800",
+      "women_pct_of_men": "LEU0251B23900"
+    },
+    "0750": {
+      "men": "LEU0251B23B00",
+      "women": "LEU0251B23C00",
+      "women_pct_of_men": "LEU0251B23D00"
+    },
+    "0845": {
+      "men": "LEU0251B23F00",
+      "women": "LEU0251B24000",
+      "women_pct_of_men": "LEU0251B24100"
+    },
+    "1021": {
+      "men": "LEU0251B24300",
+      "women": "LEU0251B24400",
+      "women_pct_of_men": "LEU0251B24500"
+    },
+    "1022": {
+      "men": "LEU0251B24700",
+      "women": "LEU0251B24800",
+      "women_pct_of_men": "LEU0251B24900"
+    },
+    "1031": {
+      "men": "LEU0251B24B00",
+      "women": "LEU0251B24C00",
+      "women_pct_of_men": "LEU0251B24D00"
+    },
+    "1032": {
+      "men": "LEU0251B24F00",
+      "women": "LEU0251B25000",
+      "women_pct_of_men": "LEU0251B25100"
+    },
+    "1305": {
+      "men": "LEU0251B25300",
+      "women": "LEU0251B25400",
+      "women_pct_of_men": "LEU0251B25500"
+    },
+    "1306": {
+      "men": "LEU0251B25700",
+      "women": "LEU0251B25800",
+      "women_pct_of_men": "LEU0251B25900"
+    },
+    "1541": {
+      "men": "LEU0251B25B00",
+      "women": "LEU0251B25C00",
+      "women_pct_of_men": "LEU0251B25D00"
+    },
+    "1545": {
+      "men": "LEU0251B25F00",
+      "women": "LEU0251B26000",
+      "women_pct_of_men": "LEU0251B26100"
+    },
+    "1551": {
+      "men": "LEU0251B26300",
+      "women": "LEU0251B26400",
+      "women_pct_of_men": "LEU0251B26500"
+    },
+    "1555": {
+      "men": "LEU0251B26700",
+      "women": "LEU0251B26800",
+      "women_pct_of_men": "LEU0251B26900"
+    },
+    "1745": {
+      "men": "LEU0251B26B00",
+      "women": "LEU0251B26C00",
+      "women_pct_of_men": "LEU0251B26D00"
+    },
+    "1750": {
+      "men": "LEU0251B26F00",
+      "women": "LEU0251B27000",
+      "women_pct_of_men": "LEU0251B27100"
+    },
+    "1821": {
+      "men": "LEU0251B27300",
+      "women": "LEU0251B27400",
+      "women_pct_of_men": "LEU0251B27500"
+    },
+    "1822": {
+      "men": "LEU0251B27700",
+      "women": "LEU0251B27800",
+      "women_pct_of_men": "LEU0251B27900"
+    },
+    "1825": {
+      "men": "LEU0251B27B00",
+      "women": "LEU0251B27C00",
+      "women_pct_of_men": "LEU0251B27D00"
+    },
+    "1970": {
+      "men": "LEU0251B27F00",
+      "women": "LEU0251B28000",
+      "women_pct_of_men": "LEU0251B28100"
+    },
+    "1980": {
+      "men": "LEU0251B28300",
+      "women": "LEU0251B28400",
+      "women_pct_of_men": "LEU0251B28500"
+    },
+    "2001": {
+      "men": "LEU0251B28700",
+      "women": "LEU0251B28800",
+      "women_pct_of_men": "LEU0251B28900"
+    },
+    "2002": {
+      "men": "LEU0251B28B00",
+      "women": "LEU0251B28C00",
+      "women_pct_of_men": "LEU0251B28D00"
+    },
+    "2003": {
+      "men": "LEU0251B28F00",
+      "women": "LEU0251B29000",
+      "women_pct_of_men": "LEU0251B29100"
+    },
+    "2004": {
+      "men": "LEU0251B29300",
+      "women": "LEU0251B29400",
+      "women_pct_of_men": "LEU0251B29500"
+    },
+    "2005": {
+      "men": "LEU0251B29700",
+      "women": "LEU0251B29800",
+      "women_pct_of_men": "LEU0251B29900"
+    },
+    "2006": {
+      "men": "LEU0251B29B00",
+      "women": "LEU0251B29C00",
+      "women_pct_of_men": "LEU0251B29D00"
+    },
+    "2011": {
+      "men": "LEU0251B29F00",
+      "women": "LEU0251B2A000",
+      "women_pct_of_men": "LEU0251B2A100"
+    },
+    "2012": {
+      "men": "LEU0251B2A300",
+      "women": "LEU0251B2A400",
+      "women_pct_of_men": "LEU0251B2A500"
+    },
+    "2013": {
+      "men": "LEU0251B2A700",
+      "women": "LEU0251B2A800",
+      "women_pct_of_men": "LEU0251B2A900"
+    },
+    "2014": {
+      "men": "LEU0251B2AB00",
+      "women": "LEU0251B2AC00",
+      "women_pct_of_men": "LEU0251B2AD00"
+    },
+    "2170": {
+      "men": "LEU0251B2AF00",
+      "women": "LEU0251B2B000",
+      "women_pct_of_men": "LEU0251B2B100"
+    },
+    "2180": {
+      "men": "LEU0251B2B300",
+      "women": "LEU0251B2B400",
+      "women_pct_of_men": "LEU0251B2B500"
+    },
+    "2205": {
+      "men": "LEU0251B2B700",
+      "women": "LEU0251B2B800",
+      "women_pct_of_men": "LEU0251B2B900"
+    },
+    "2350": {
+      "men": "LEU0251B2BB00",
+      "women": "LEU0251B2BC00",
+      "women_pct_of_men": "LEU0251B2BD00"
+    },
+    "2360": {
+      "men": "LEU0251B2BF00",
+      "women": "LEU0251B2C000",
+      "women_pct_of_men": "LEU0251B2C100"
+    },
+    "2555": {
+      "men": "LEU0251B2C300",
+      "women": "LEU0251B2C400",
+      "women_pct_of_men": "LEU0251B2C500"
+    },
+    "2631": {
+      "men": "LEU0251B2C700",
+      "women": "LEU0251B2C800",
+      "women_pct_of_men": "LEU0251B2C900"
+    },
+    "2632": {
+      "men": "LEU0251B2CB00",
+      "women": "LEU0251B2CC00",
+      "women_pct_of_men": "LEU0251B2CD00"
+    },
+    "2633": {
+      "men": "LEU0251B2CF00",
+      "women": "LEU0251B2D000",
+      "women_pct_of_men": "LEU0251B2D100"
+    },
+    "2634": {
+      "men": "LEU0251B2D300",
+      "women": "LEU0251B2D400",
+      "women_pct_of_men": "LEU0251B2D500"
+    },
+    "2635": {
+      "men": "LEU0251B2D700",
+      "women": "LEU0251B2D800",
+      "women_pct_of_men": "LEU0251B2D900"
+    },
+    "2636": {
+      "men": "LEU0251B2DB00",
+      "women": "LEU0251B2DC00",
+      "women_pct_of_men": "LEU0251B2DD00"
+    },
+    "2640": {
+      "men": "LEU0251B2DF00",
+      "women": "LEU0251B2E000",
+      "women_pct_of_men": "LEU0251B2E100"
+    },
+    "2721": {
+      "men": "LEU0251B2E300",
+      "women": "LEU0251B2E400",
+      "women_pct_of_men": "LEU0251B2E500"
+    },
+    "2722": {
+      "men": "LEU0251B2E700",
+      "women": "LEU0251B2E800",
+      "women_pct_of_men": "LEU0251B2E900"
+    },
+    "2723": {
+      "men": "LEU0251B2EB00",
+      "women": "LEU0251B2EC00",
+      "women_pct_of_men": "LEU0251B2ED00"
+    },
+    "2751": {
+      "men": "LEU0251B2EF00",
+      "women": "LEU0251B2F000",
+      "women_pct_of_men": "LEU0251B2F100"
+    },
+    "2752": {
+      "men": "LEU0251B2F300",
+      "women": "LEU0251B2F400",
+      "women_pct_of_men": "LEU0251B2F500"
+    },
+    "2755": {
+      "men": "LEU0251B2F700",
+      "women": "LEU0251B2F800",
+      "women_pct_of_men": "LEU0251B2F900"
+    },
+    "2770": {
+      "men": "LEU0251B2FB00",
+      "women": "LEU0251B2FC00",
+      "women_pct_of_men": "LEU0251B2FD00"
+    },
+    "2805": {
+      "men": "LEU0251B2FF00",
+      "women": "LEU0251B30000",
+      "women_pct_of_men": "LEU0251B30100"
+    },
+    "2861": {
+      "men": "LEU0251B30300",
+      "women": "LEU0251B30400",
+      "women_pct_of_men": "LEU0251B30500"
+    },
+    "2862": {
+      "men": "LEU0251B30700",
+      "women": "LEU0251B30800",
+      "women_pct_of_men": "LEU0251B30900"
+    },
+    "2865": {
+      "men": "LEU0251B30B00",
+      "women": "LEU0251B30C00",
+      "women_pct_of_men": "LEU0251B30D00"
+    },
+    "2905": {
+      "men": "LEU0251B30F00",
+      "women": "LEU0251B31000",
+      "women_pct_of_men": "LEU0251B31100"
+    },
+    "2970": {
+      "men": "LEU0251B31300",
+      "women": "LEU0251B31400"
+    },
+    "3065": {
+      "men": "LEU0251B31700",
+      "women": "LEU0251B31800",
+      "women_pct_of_men": "LEU0251B31900"
+    },
+    "3070": {
+      "men": "LEU0251B31B00",
+      "women": "LEU0251B31C00",
+      "women_pct_of_men": "LEU0251B31D00"
+    },
+    "3090": {
+      "men": "LEU0251B31F00",
+      "women": "LEU0251B32000",
+      "women_pct_of_men": "LEU0251B32100"
+    },
+    "3100": {
+      "men": "LEU0251B32300",
+      "women": "LEU0251B32400",
+      "women_pct_of_men": "LEU0251B32500"
+    },
+    "3261": {
+      "men": "LEU0251B32700",
+      "women": "LEU0251B32800",
+      "women_pct_of_men": "LEU0251B32900"
+    },
+    "3270": {
+      "men": "LEU0251B32B00",
+      "women": "LEU0251B32C00",
+      "women_pct_of_men": "LEU0251B32D00"
+    },
+    "3321": {
+      "men": "LEU0251B32F00",
+      "women": "LEU0251B33000",
+      "women_pct_of_men": "LEU0251B33100"
+    },
+    "3322": {
+      "men": "LEU0251B33300",
+      "women": "LEU0251B33400",
+      "women_pct_of_men": "LEU0251B33500"
+    },
+    "3323": {
+      "men": "LEU0251B33700",
+      "women": "LEU0251B33800",
+      "women_pct_of_men": "LEU0251B33900"
+    },
+    "3324": {
+      "men": "LEU0251B33B00",
+      "women": "LEU0251B33C00",
+      "women_pct_of_men": "LEU0251B33D00"
+    },
+    "3330": {
+      "men": "LEU0251B33F00",
+      "women": "LEU0251B34000",
+      "women_pct_of_men": "LEU0251B34100"
+    },
+    "3401": {
+      "men": "LEU0251B34300",
+      "women": "LEU0251B34400",
+      "women_pct_of_men": "LEU0251B34500"
+    },
+    "3402": {
+      "men": "LEU0251B34700",
+      "women": "LEU0251B34800",
+      "women_pct_of_men": "LEU0251B34900"
+    },
+    "3421": {
+      "men": "LEU0251B34B00",
+      "women": "LEU0251B34C00",
+      "women_pct_of_men": "LEU0251B34D00"
+    },
+    "3422": {
+      "men": "LEU0251B34F00",
+      "women": "LEU0251B35000",
+      "women_pct_of_men": "LEU0251B35100"
+    },
+    "3423": {
+      "men": "LEU0251B35300",
+      "women": "LEU0251B35400",
+      "women_pct_of_men": "LEU0251B35500"
+    },
+    "3424": {
+      "men": "LEU0251B35700",
+      "women": "LEU0251B35800",
+      "women_pct_of_men": "LEU0251B35900"
+    },
+    "3430": {
+      "men": "LEU0251B35B00",
+      "women": "LEU0251B35C00",
+      "women_pct_of_men": "LEU0251B35D00"
+    },
+    "3515": {
+      "men": "LEU0251B35F00",
+      "women": "LEU0251B36000",
+      "women_pct_of_men": "LEU0251B36100"
+    },
+    "3550": {
+      "men": "LEU0251B36300",
+      "women": "LEU0251B36400",
+      "women_pct_of_men": "LEU0251B36500"
+    },
+    "3601": {
+      "men": "LEU0251B36700",
+      "women": "LEU0251B36800",
+      "women_pct_of_men": "LEU0251B36900"
+    },
+    "3603": {
+      "men": "LEU0251B36B00",
+      "women": "LEU0251B36C00",
+      "women_pct_of_men": "LEU0251B36D00"
+    },
+    "3605": {
+      "men": "LEU0251B36F00",
+      "women": "LEU0251B37000",
+      "women_pct_of_men": "LEU0251B37100"
+    },
+    "3725": {
+      "men": "LEU0251B37300",
+      "women": "LEU0251B37400",
+      "women_pct_of_men": "LEU0251B37500"
+    },
+    "3735": {
+      "men": "LEU0251B37700",
+      "women": "LEU0251B37800",
+      "women_pct_of_men": "LEU0251B37900"
+    },
+    "3801": {
+      "men": "LEU0251B37B00",
+      "women": "LEU0251B37C00",
+      "women_pct_of_men": "LEU0251B37D00"
+    },
+    "3802": {
+      "men": "LEU0251B37F00",
+      "women": "LEU0251B38000",
+      "women_pct_of_men": "LEU0251B38100"
+    },
+    "3870": {
+      "men": "LEU0251B38300",
+      "women": "LEU0251B38400",
+      "women_pct_of_men": "LEU0251B38500"
+    },
+    "3946": {
+      "men": "LEU0251B38700",
+      "women": "LEU0251B38800",
+      "women_pct_of_men": "LEU0251B38900"
+    },
+    "3960": {
+      "men": "LEU0251B38B00",
+      "women": "LEU0251B38C00",
+      "women_pct_of_men": "LEU0251B38D00"
+    },
+    "4055": {
+      "men": "LEU0251B38F00",
+      "women": "LEU0251B39000",
+      "women_pct_of_men": "LEU0251B39100"
+    },
+    "4251": {
+      "men": "LEU0251B39300",
+      "women": "LEU0251B39400",
+      "women_pct_of_men": "LEU0251B39500"
+    },
+    "4252": {
+      "men": "LEU0251B39700",
+      "women": "LEU0251B39800",
+      "women_pct_of_men": "LEU0251B39900"
+    },
+    "4255": {
+      "men": "LEU0251B39B00",
+      "women": "LEU0251B39C00",
+      "women_pct_of_men": "LEU0251B39D00"
+    },
+    "4330": {
+      "men": "LEU0251B39F00",
+      "women": "LEU0251B3A000",
+      "women_pct_of_men": "LEU0251B3A100"
+    },
+    "4435": {
+      "men": "LEU0251B3A300",
+      "women": "LEU0251B3A400",
+      "women_pct_of_men": "LEU0251B3A500"
+    },
+    "4521": {
+      "men": "LEU0251B3A700",
+      "women": "LEU0251B3A800",
+      "women_pct_of_men": "LEU0251B3A900"
+    },
+    "4522": {
+      "men": "LEU0251B3AB00",
+      "women": "LEU0251B3AC00",
+      "women_pct_of_men": "LEU0251B3AD00"
+    },
+    "4525": {
+      "men": "LEU0251B3AF00",
+      "women": "LEU0251B3B000",
+      "women_pct_of_men": "LEU0251B3B100"
+    },
+    "4621": {
+      "men": "LEU0251B3B300",
+      "women": "LEU0251B3B400",
+      "women_pct_of_men": "LEU0251B3B500"
+    },
+    "4622": {
+      "men": "LEU0251B3B700",
+      "women": "LEU0251B3B800",
+      "women_pct_of_men": "LEU0251B3B900"
+    },
+    "4655": {
+      "men": "LEU0251B3BB00",
+      "women": "LEU0251B3BC00",
+      "women_pct_of_men": "LEU0251B3BD00"
+    },
+    "5521": {
+      "men": "LEU0251B3BF00",
+      "women": "LEU0251B3C000",
+      "women_pct_of_men": "LEU0251B3C100"
+    },
+    "5522": {
+      "men": "LEU0251B3C300",
+      "women": "LEU0251B3C400",
+      "women_pct_of_men": "LEU0251B3C500"
+    },
+    "5710": {
+      "men": "LEU0251B3C700",
+      "women": "LEU0251B3C800",
+      "women_pct_of_men": "LEU0251B3C900"
+    },
+    "5720": {
+      "men": "LEU0251B3CB00",
+      "women": "LEU0251B3CC00",
+      "women_pct_of_men": "LEU0251B3CD00"
+    },
+    "5730": {
+      "men": "LEU0251B3CF00",
+      "women": "LEU0251B3D000",
+      "women_pct_of_men": "LEU0251B3D100"
+    },
+    "5740": {
+      "men": "LEU0251B3D300",
+      "women": "LEU0251B3D400",
+      "women_pct_of_men": "LEU0251B3D500"
+    },
+    "6115": {
+      "men": "LEU0251B3D700",
+      "women": "LEU0251B3D800",
+      "women_pct_of_men": "LEU0251B3D900"
+    },
+    "6305": {
+      "men": "LEU0251B3DB00",
+      "women": "LEU0251B3DC00",
+      "women_pct_of_men": "LEU0251B3DD00"
+    },
+    "6410": {
+      "men": "LEU0251B3DF00",
+      "women": "LEU0251B3E000",
+      "women_pct_of_men": "LEU0251B3E100"
+    },
+    "6441": {
+      "men": "LEU0251B3E300",
+      "women": "LEU0251B3E400",
+      "women_pct_of_men": "LEU0251B3E500"
+    },
+    "6442": {
+      "men": "LEU0251B3E700",
+      "women": "LEU0251B3E800",
+      "women_pct_of_men": "LEU0251B3E900"
+    },
+    "6821": {
+      "men": "LEU0251B3EB00",
+      "women": "LEU0251B3EC00",
+      "women_pct_of_men": "LEU0251B3ED00"
+    },
+    "6825": {
+      "men": "LEU0251B3EF00",
+      "women": "LEU0251B3F000",
+      "women_pct_of_men": "LEU0251B3F100"
+    },
+    "6850": {
+      "men": "LEU0251B3F300",
+      "women": "LEU0251B3F400",
+      "women_pct_of_men": "LEU0251B3F500"
+    },
+    "6950": {
+      "men": "LEU0251B3F700",
+      "women": "LEU0251B3F800",
+      "women_pct_of_men": "LEU0251B3F900"
+    },
+    "7640": {
+      "men": "LEU0251B3FB00",
+      "women": "LEU0251B3FC00",
+      "women_pct_of_men": "LEU0251B3FD00"
+    },
+    "7925": {
+      "men": "LEU0251B3FF00",
+      "women": "LEU0251B40000",
+      "women_pct_of_men": "LEU0251B40100"
+    },
+    "8025": {
+      "men": "LEU0251B40300",
+      "women": "LEU0251B40400",
+      "women_pct_of_men": "LEU0251B40500"
+    },
+    "8225": {
+      "men": "LEU0251B40700",
+      "women": "LEU0251B40800",
+      "women_pct_of_men": "LEU0251B40900"
+    },
+    "8335": {
+      "men": "LEU0251B40B00",
+      "women": "LEU0251B40C00",
+      "women_pct_of_men": "LEU0251B40D00"
+    },
+    "8365": {
+      "men": "LEU0251B40F00",
+      "women": "LEU0251B41000",
+      "women_pct_of_men": "LEU0251B41100"
+    },
+    "8465": {
+      "men": "LEU0251B41300",
+      "women": "LEU0251B41400",
+      "women_pct_of_men": "LEU0251B41500"
+    },
+    "8555": {
+      "men": "LEU0251B41700",
+      "women": "LEU0251B41800",
+      "women_pct_of_men": "LEU0251B41900"
+    },
+    "8865": {
+      "men": "LEU0251B41B00",
+      "women": "LEU0251B41C00",
+      "women_pct_of_men": "LEU0251B41D00"
+    },
+    "8990": {
+      "men": "LEU0251B41F00",
+      "women": "LEU0251B42000",
+      "women_pct_of_men": "LEU0251B42100"
+    },
+    "9121": {
+      "men": "LEU0251B42300",
+      "women": "LEU0251B42400",
+      "women_pct_of_men": "LEU0251B42500"
+    },
+    "9122": {
+      "men": "LEU0251B42700",
+      "women": "LEU0251B42800",
+      "women_pct_of_men": "LEU0251B42900"
+    },
+    "9141": {
+      "men": "LEU0251B42B00",
+      "women": "LEU0251B42C00",
+      "women_pct_of_men": "LEU0251B42D00"
+    },
+    "9142": {
+      "men": "LEU0251B42F00",
+      "women": "LEU0251B43000",
+      "women_pct_of_men": "LEU0251B43100"
+    },
+    "9210": {
+      "men": "LEU0251B43300",
+      "women": "LEU0251B43400",
+      "women_pct_of_men": "LEU0251B43500"
+    },
+    "9265": {
+      "men": "LEU0251B43700",
+      "women": "LEU0251B43800",
+      "women_pct_of_men": "LEU0251B43900"
+    },
+    "9365": {
+      "men": "LEU0251B43B00",
+      "women": "LEU0251B43C00",
+      "women_pct_of_men": "LEU0251B43D00"
+    },
+    "9430": {
+      "men": "LEU0251B43F00",
+      "women": "LEU0251B44000",
+      "women_pct_of_men": "LEU0251B44100"
+    },
+    "9570": {
+      "men": "LEU0251B44300",
+      "women": "LEU0251B44400",
+      "women_pct_of_men": "LEU0251B44500"
+    },
+    "9760": {
+      "men": "LEU0251B44700",
+      "women": "LEU0251B44800",
+      "women_pct_of_men": "LEU0251B44900"
+    },
+    "0000": {
+      "men": "LEU0258188900",
+      "women": "LEU0258188400",
+      "women_pct_of_men": "LEU0257978300"
+    },
+    "0007": {
+      "men": "LEU0258040000",
+      "women": "LEU0257983400",
+      "women_pct_of_men": "LEU0257919900"
+    },
+    "0008": {
+      "men": "LEU0258040100",
+      "women": "LEU0257983500",
+      "women_pct_of_men": "LEU0257920000"
+    },
+    "0009": {
+      "men": "LEU0258040200",
+      "women": "LEU0257983600",
+      "women_pct_of_men": "LEU0257920100"
+    },
+    "0010": {
+      "men": "LEU0258040300",
+      "women": "LEU0257983700",
+      "women_pct_of_men": "LEU0257920200"
+    },
+    "0020": {
+      "men": "LEU0258040400",
+      "women": "LEU0257983800",
+      "women_pct_of_men": "LEU0257920300"
+    },
+    "0030": {
+      "men": "LEU0258040500",
+      "women": "LEU0257983900",
+      "women_pct_of_men": "LEU0257920400"
+    },
+    "0040": {
+      "men": "LEU0258040600",
+      "women": "LEU0257984000",
+      "women_pct_of_men": "LEU0257920500"
+    },
+    "0050": {
+      "men": "LEU0258040700",
+      "women": "LEU0257984100",
+      "women_pct_of_men": "LEU0257920600"
+    },
+    "0060": {
+      "men": "LEU0258040800",
+      "women": "LEU0257984200",
+      "women_pct_of_men": "LEU0257920700"
+    },
+    "0100": {
+      "men": "LEU0258040900",
+      "women": "LEU0257984300",
+      "women_pct_of_men": "LEU0257920800"
+    },
+    "0110": {
+      "men": "LEU0258041000",
+      "women": "LEU0257984400",
+      "women_pct_of_men": "LEU0257920900"
+    },
+    "0120": {
+      "men": "LEU0258041100",
+      "women": "LEU0257984500",
+      "women_pct_of_men": "LEU0257921000"
+    },
+    "0136": {
+      "men": "LEU0258041300",
+      "women": "LEU0257984700",
+      "women_pct_of_men": "LEU0257921200"
+    },
+    "0140": {
+      "men": "LEU0258041500",
+      "women": "LEU0257984900",
+      "women_pct_of_men": "LEU0257921400"
+    },
+    "0150": {
+      "men": "LEU0258041600",
+      "women": "LEU0257985000",
+      "women_pct_of_men": "LEU0257921500"
+    },
+    "0160": {
+      "men": "LEU0258041700",
+      "women": "LEU0257985100",
+      "women_pct_of_men": "LEU0257921600"
+    },
+    "0200": {
+      "men": "LEU0254633000",
+      "women": "LEU0254739800"
+    },
+    "0220": {
+      "men": "LEU0258041900",
+      "women": "LEU0257985300",
+      "women_pct_of_men": "LEU0257921800"
+    },
+    "0230": {
+      "men": "LEU0258042000",
+      "women": "LEU0257985400",
+      "women_pct_of_men": "LEU0257921900"
+    },
+    "0300": {
+      "men": "LEU0258042100",
+      "women": "LEU0257985500",
+      "women_pct_of_men": "LEU0257922000"
+    },
+    "0310": {
+      "men": "LEU0258042200",
+      "women": "LEU0257985600",
+      "women_pct_of_men": "LEU0257922100"
+    },
+    "0335": {
+      "men": "LEU0258042400",
+      "women": "LEU0257985800",
+      "women_pct_of_men": "LEU0257922300"
+    },
+    "0340": {
+      "men": "LEU0258042500",
+      "women": "LEU0257985900",
+      "women_pct_of_men": "LEU0257922400"
+    },
+    "0350": {
+      "men": "LEU0258042600",
+      "women": "LEU0257986000",
+      "women_pct_of_men": "LEU0257922500"
+    },
+    "0360": {
+      "men": "LEU0258042700",
+      "women": "LEU0257986100",
+      "women_pct_of_men": "LEU0257922600"
+    },
+    "0400": {
+      "men": "LEU0258042800",
+      "women": "LEU0257986200",
+      "women_pct_of_men": "LEU0257922700"
+    },
+    "0410": {
+      "men": "LEU0258042900",
+      "women": "LEU0257986300",
+      "women_pct_of_men": "LEU0257922800"
+    },
+    "0420": {
+      "men": "LEU0258043000",
+      "women": "LEU0257986400",
+      "women_pct_of_men": "LEU0257922900"
+    },
+    "0430": {
+      "men": "LEU0258043200",
+      "women": "LEU0257986600",
+      "women_pct_of_men": "LEU0257923100"
+    },
+    "0499": {
+      "men": "LEU0258043300",
+      "women": "LEU0257986700",
+      "women_pct_of_men": "LEU0257923200"
+    },
+    "0500": {
+      "men": "LEU0258043400",
+      "women": "LEU0257986800",
+      "women_pct_of_men": "LEU0257923300"
+    },
+    "0510": {
+      "men": "LEU0258043500",
+      "women": "LEU0257986900",
+      "women_pct_of_men": "LEU0257923400"
+    },
+    "0520": {
+      "men": "LEU0258043600",
+      "women": "LEU0257987000",
+      "women_pct_of_men": "LEU0257923500"
+    },
+    "0530": {
+      "men": "LEU0258043700",
+      "women": "LEU0257987100",
+      "women_pct_of_men": "LEU0257923600"
+    },
+    "0540": {
+      "men": "LEU0258043800",
+      "women": "LEU0257987200",
+      "women_pct_of_men": "LEU0257923700"
+    },
+    "0560": {
+      "men": "LEU0254635100",
+      "women": "LEU0254741900"
+    },
+    "0600": {
+      "men": "LEU0258044000",
+      "women": "LEU0257987400",
+      "women_pct_of_men": "LEU0257923900"
+    },
+    "0620": {
+      "men": "LEU0254635300",
+      "women": "LEU0254742100"
+    },
+    "0700": {
+      "men": "LEU0258044400",
+      "women": "LEU0257987800",
+      "women_pct_of_men": "LEU0257924300"
+    },
+    "0710": {
+      "men": "LEU0258044500",
+      "women": "LEU0257987900",
+      "women_pct_of_men": "LEU0257924400"
+    },
+    "0800": {
+      "men": "LEU0258045000",
+      "women": "LEU0257988400",
+      "women_pct_of_men": "LEU0257924900"
+    },
+    "0810": {
+      "men": "LEU0258045100",
+      "women": "LEU0257988500",
+      "women_pct_of_men": "LEU0257925000"
+    },
+    "0820": {
+      "men": "LEU0258045200",
+      "women": "LEU0257988600",
+      "women_pct_of_men": "LEU0257925100"
+    },
+    "0830": {
+      "men": "LEU0258045300",
+      "women": "LEU0257988700",
+      "women_pct_of_men": "LEU0257925200"
+    },
+    "0840": {
+      "men": "LEU0258045400",
+      "women": "LEU0257988800",
+      "women_pct_of_men": "LEU0257925300"
+    },
+    "0850": {
+      "men": "LEU0258045500",
+      "women": "LEU0257988900",
+      "women_pct_of_men": "LEU0257925400"
+    },
+    "0860": {
+      "men": "LEU0258045600",
+      "women": "LEU0257989000",
+      "women_pct_of_men": "LEU0257925500"
+    },
+    "0900": {
+      "men": "LEU0258045700",
+      "women": "LEU0257989100",
+      "women_pct_of_men": "LEU0257925600"
+    },
+    "0910": {
+      "men": "LEU0258045800",
+      "women": "LEU0257989200",
+      "women_pct_of_men": "LEU0257925700"
+    },
+    "0930": {
+      "men": "LEU0258045900",
+      "women": "LEU0257989300",
+      "women_pct_of_men": "LEU0257925800"
+    },
+    "0940": {
+      "men": "LEU0258046000",
+      "women": "LEU0257989400",
+      "women_pct_of_men": "LEU0257925900"
+    },
+    "0960": {
+      "men": "LEU0258046100",
+      "women": "LEU0257989500",
+      "women_pct_of_men": "LEU0257926000"
+    },
+    "0998": {
+      "men": "LEU0258046200",
+      "women": "LEU0257989600",
+      "women_pct_of_men": "LEU0257926100"
+    },
+    "0999": {
+      "men": "LEU0258046300",
+      "women": "LEU0257989700",
+      "women_pct_of_men": "LEU0257926200"
+    },
+    "1000": {
+      "men": "LEU0254637200",
+      "women": "LEU0254744000"
+    },
+    "1010": {
+      "men": "LEU0258046700",
+      "women": "LEU0257990100",
+      "women_pct_of_men": "LEU0257926600"
+    },
+    "1020": {
+      "men": "LEU0258046800",
+      "women": "LEU0257990200",
+      "women_pct_of_men": "LEU0257926700"
+    },
+    "1050": {
+      "men": "LEU0258047000",
+      "women": "LEU0257990400",
+      "women_pct_of_men": "LEU0257926900"
+    },
+    "1065": {
+      "men": "LEU0258047100",
+      "women": "LEU0257990500",
+      "women_pct_of_men": "LEU0257927000"
+    },
+    "1105": {
+      "men": "LEU0258047200",
+      "women": "LEU0257990600",
+      "women_pct_of_men": "LEU0257927100"
+    },
+    "1110": {
+      "men": "LEU0254637800",
+      "women": "LEU0254744600"
+    },
+    "1200": {
+      "men": "LEU0258047500",
+      "women": "LEU0257990900",
+      "women_pct_of_men": "LEU0257927400"
+    },
+    "1210": {
+      "men": "LEU0258047600",
+      "women": "LEU0257991000",
+      "women_pct_of_men": "LEU0257927500"
+    },
+    "1220": {
+      "men": "LEU0258047700",
+      "women": "LEU0257991100",
+      "women_pct_of_men": "LEU0257927600"
+    },
+    "1230": {
+      "men": "LEU0258047800",
+      "women": "LEU0257991200",
+      "women_pct_of_men": "LEU0257927700"
+    },
+    "1240": {
+      "men": "LEU0258047900",
+      "women": "LEU0257991300",
+      "women_pct_of_men": "LEU0257927800"
+    },
+    "1299": {
+      "men": "LEU0258048000",
+      "women": "LEU0257991400",
+      "women_pct_of_men": "LEU0257927900"
+    },
+    "1300": {
+      "men": "LEU0258048100",
+      "women": "LEU0257991500",
+      "women_pct_of_men": "LEU0257928000"
+    },
+    "1310": {
+      "men": "LEU0258048200",
+      "women": "LEU0257991600",
+      "women_pct_of_men": "LEU0257928100"
+    },
+    "1320": {
+      "men": "LEU0258048300",
+      "women": "LEU0257991700",
+      "women_pct_of_men": "LEU0257928200"
+    },
+    "1330": {
+      "men": "LEU0258048400",
+      "women": "LEU0257991800",
+      "women_pct_of_men": "LEU0257928300"
+    },
+    "1340": {
+      "men": "LEU0258048500",
+      "women": "LEU0257991900",
+      "women_pct_of_men": "LEU0257928400"
+    },
+    "1350": {
+      "men": "LEU0258048600",
+      "women": "LEU0257992000",
+      "women_pct_of_men": "LEU0257928500"
+    },
+    "1360": {
+      "men": "LEU0258048700",
+      "women": "LEU0257992100",
+      "women_pct_of_men": "LEU0257928600"
+    },
+    "1400": {
+      "men": "LEU0258048800",
+      "women": "LEU0257992200",
+      "women_pct_of_men": "LEU0257928700"
+    },
+    "1410": {
+      "men": "LEU0258048900",
+      "women": "LEU0257992300",
+      "women_pct_of_men": "LEU0257928800"
+    },
+    "1420": {
+      "men": "LEU0258049000",
+      "women": "LEU0257992400",
+      "women_pct_of_men": "LEU0257928900"
+    },
+    "1430": {
+      "men": "LEU0258049100",
+      "women": "LEU0257992500",
+      "women_pct_of_men": "LEU0257929000"
+    },
+    "1440": {
+      "men": "LEU0258049200",
+      "women": "LEU0257992600",
+      "women_pct_of_men": "LEU0257929100"
+    },
+    "1450": {
+      "men": "LEU0258049300",
+      "women": "LEU0257992700",
+      "women_pct_of_men": "LEU0257929200"
+    },
+    "1460": {
+      "men": "LEU0258049400",
+      "women": "LEU0257992800",
+      "women_pct_of_men": "LEU0257929300"
+    },
+    "1500": {
+      "men": "LEU0258049500",
+      "women": "LEU0257992900",
+      "women_pct_of_men": "LEU0257929400"
+    },
+    "1510": {
+      "men": "LEU0258049600",
+      "women": "LEU0257993000",
+      "women_pct_of_men": "LEU0257929500"
+    },
+    "1520": {
+      "men": "LEU0258049700",
+      "women": "LEU0257993100",
+      "women_pct_of_men": "LEU0257929600"
+    },
+    "1530": {
+      "men": "LEU0258049800",
+      "women": "LEU0257993200",
+      "women_pct_of_men": "LEU0257929700"
+    },
+    "1540": {
+      "men": "LEU0258049900",
+      "women": "LEU0257993300",
+      "women_pct_of_men": "LEU0257929800"
+    },
+    "1550": {
+      "men": "LEU0258050000",
+      "women": "LEU0257993400",
+      "women_pct_of_men": "LEU0257929900"
+    },
+    "1560": {
+      "men": "LEU0258050100",
+      "women": "LEU0257993500",
+      "women_pct_of_men": "LEU0257930000"
+    },
+    "1599": {
+      "men": "LEU0258050200",
+      "women": "LEU0257993600",
+      "women_pct_of_men": "LEU0257930100"
+    },
+    "1600": {
+      "men": "LEU0258050300",
+      "women": "LEU0257993700",
+      "women_pct_of_men": "LEU0257930200"
+    },
+    "1610": {
+      "men": "LEU0258050400",
+      "women": "LEU0257993800",
+      "women_pct_of_men": "LEU0257930300"
+    },
+    "1640": {
+      "men": "LEU0258050500",
+      "women": "LEU0257993900",
+      "women_pct_of_men": "LEU0257930400"
+    },
+    "1650": {
+      "men": "LEU0258050600",
+      "women": "LEU0257994000",
+      "women_pct_of_men": "LEU0257930500"
+    },
+    "1700": {
+      "men": "LEU0258050800",
+      "women": "LEU0257994200",
+      "women_pct_of_men": "LEU0257930700"
+    },
+    "1710": {
+      "men": "LEU0258050900",
+      "women": "LEU0257994300",
+      "women_pct_of_men": "LEU0257930800"
+    },
+    "1720": {
+      "men": "LEU0258051000",
+      "women": "LEU0257994400",
+      "women_pct_of_men": "LEU0257930900"
+    },
+    "1740": {
+      "men": "LEU0258051100",
+      "women": "LEU0257994500",
+      "women_pct_of_men": "LEU0257931000"
+    },
+    "1760": {
+      "men": "LEU0258051200",
+      "women": "LEU0257994600",
+      "women_pct_of_men": "LEU0257931100"
+    },
+    "1800": {
+      "men": "LEU0258051300",
+      "women": "LEU0257994700",
+      "women_pct_of_men": "LEU0257931200"
+    },
+    "1810": {
+      "men": "LEU0254641700",
+      "women": "LEU0254748500"
+    },
+    "1820": {
+      "men": "LEU0258051500",
+      "women": "LEU0257994900",
+      "women_pct_of_men": "LEU0257931400"
+    },
+    "1830": {
+      "men": "LEU0258051600",
+      "women": "LEU0257995000",
+      "women_pct_of_men": "LEU0257931500"
+    },
+    "1840": {
+      "men": "LEU0258051700",
+      "women": "LEU0257995100",
+      "women_pct_of_men": "LEU0257931600"
+    },
+    "1860": {
+      "men": "LEU0258051800",
+      "women": "LEU0257995200",
+      "women_pct_of_men": "LEU0257931700"
+    },
+    "1900": {
+      "men": "LEU0258051900",
+      "women": "LEU0257995300",
+      "women_pct_of_men": "LEU0257931800"
+    },
+    "1910": {
+      "men": "LEU0258052000",
+      "women": "LEU0257995400",
+      "women_pct_of_men": "LEU0257931900"
+    },
+    "1920": {
+      "men": "LEU0258052100",
+      "women": "LEU0257995500",
+      "women_pct_of_men": "LEU0257932000"
+    },
+    "1935": {
+      "men": "LEU0258052200",
+      "women": "LEU0257995600",
+      "women_pct_of_men": "LEU0257932100"
+    },
+    "1940": {
+      "men": "LEU0258052300",
+      "women": "LEU0257995700",
+      "women_pct_of_men": "LEU0257932200"
+    },
+    "1999": {
+      "men": "LEU0258052600",
+      "women": "LEU0257996000",
+      "women_pct_of_men": "LEU0257932500"
+    },
+    "2000": {
+      "men": "LEU0258052700",
+      "women": "LEU0257996100",
+      "women_pct_of_men": "LEU0257932600"
+    },
+    "2010": {
+      "men": "LEU0258052800",
+      "women": "LEU0257996200",
+      "women_pct_of_men": "LEU0257932700"
+    },
+    "2020": {
+      "men": "LEU0254643100",
+      "women": "LEU0254749900"
+    },
+    "2040": {
+      "men": "LEU0258053200",
+      "women": "LEU0257996600",
+      "women_pct_of_men": "LEU0257933100"
+    },
+    "2050": {
+      "men": "LEU0258053300",
+      "women": "LEU0257996700",
+      "women_pct_of_men": "LEU0257933200"
+    },
+    "2060": {
+      "men": "LEU0258053400",
+      "women": "LEU0257996800",
+      "women_pct_of_men": "LEU0257933300"
+    },
+    "2099": {
+      "men": "LEU0258053500",
+      "women": "LEU0257996900",
+      "women_pct_of_men": "LEU0257933400"
+    },
+    "2100": {
+      "men": "LEU0258053600",
+      "women": "LEU0257997000",
+      "women_pct_of_men": "LEU0257933500"
+    },
+    "2110": {
+      "men": "LEU0258053800",
+      "women": "LEU0257997200",
+      "women_pct_of_men": "LEU0257933700"
+    },
+    "2145": {
+      "men": "LEU0258053900",
+      "women": "LEU0257997300",
+      "women_pct_of_men": "LEU0257933800"
+    },
+    "2160": {
+      "men": "LEU0258054000",
+      "women": "LEU0257997400",
+      "women_pct_of_men": "LEU0257933900"
+    },
+    "2199": {
+      "men": "LEU0258054100",
+      "women": "LEU0257997500",
+      "women_pct_of_men": "LEU0257934000"
+    },
+    "2200": {
+      "men": "LEU0258054200",
+      "women": "LEU0257997600",
+      "women_pct_of_men": "LEU0257934100"
+    },
+    "2300": {
+      "men": "LEU0258054300",
+      "women": "LEU0257997700",
+      "women_pct_of_men": "LEU0257934200"
+    },
+    "2310": {
+      "men": "LEU0258054400",
+      "women": "LEU0257997800",
+      "women_pct_of_men": "LEU0257934300"
+    },
+    "2320": {
+      "men": "LEU0258054500",
+      "women": "LEU0257997900",
+      "women_pct_of_men": "LEU0257934400"
+    },
+    "2330": {
+      "men": "LEU0258054600",
+      "women": "LEU0257998000",
+      "women_pct_of_men": "LEU0257934500"
+    },
+    "2340": {
+      "men": "LEU0258054700",
+      "women": "LEU0257998100",
+      "women_pct_of_men": "LEU0257934600"
+    },
+    "2400": {
+      "men": "LEU0258054800",
+      "women": "LEU0257998200",
+      "women_pct_of_men": "LEU0257934700"
+    },
+    "2435": {
+      "men": "LEU0258054900",
+      "women": "LEU0257998300",
+      "women_pct_of_men": "LEU0257934800"
+    },
+    "2440": {
+      "men": "LEU0258055000",
+      "women": "LEU0257998400",
+      "women_pct_of_men": "LEU0257934900"
+    },
+    "2545": {
+      "men": "LEU0258055100",
+      "women": "LEU0257998500",
+      "women_pct_of_men": "LEU0257935000"
+    },
+    "2550": {
+      "men": "LEU0258055200",
+      "women": "LEU0257998600",
+      "women_pct_of_men": "LEU0257935100"
+    },
+    "2599": {
+      "men": "LEU0258055300",
+      "women": "LEU0257998700",
+      "women_pct_of_men": "LEU0257935200"
+    },
+    "2600": {
+      "men": "LEU0258055400",
+      "women": "LEU0257998800",
+      "women_pct_of_men": "LEU0257935300"
+    },
+    "2630": {
+      "men": "LEU0258055500",
+      "women": "LEU0257998900",
+      "women_pct_of_men": "LEU0257935400"
+    },
+    "2700": {
+      "men": "LEU0258055600",
+      "women": "LEU0257999000",
+      "women_pct_of_men": "LEU0257935500"
+    },
+    "2710": {
+      "men": "LEU0258055700",
+      "women": "LEU0257999100",
+      "women_pct_of_men": "LEU0257935600"
+    },
+    "2720": {
+      "men": "LEU0258055800",
+      "women": "LEU0257999200",
+      "women_pct_of_men": "LEU0257935700"
+    },
+    "2740": {
+      "men": "LEU0258055900",
+      "women": "LEU0257999300",
+      "women_pct_of_men": "LEU0257935800"
+    },
+    "2750": {
+      "men": "LEU0258056000",
+      "women": "LEU0257999400",
+      "women_pct_of_men": "LEU0257935900"
+    },
+    "2760": {
+      "men": "LEU0258056100",
+      "women": "LEU0257999500",
+      "women_pct_of_men": "LEU0257936000"
+    },
+    "2800": {
+      "men": "LEU0258056200",
+      "women": "LEU0257999600",
+      "women_pct_of_men": "LEU0257936100"
+    },
+    "2810": {
+      "men": "LEU0258056300",
+      "women": "LEU0257999700",
+      "women_pct_of_men": "LEU0257936200"
+    },
+    "2825": {
+      "men": "LEU0258056400",
+      "women": "LEU0257999800",
+      "women_pct_of_men": "LEU0257936300"
+    },
+    "2830": {
+      "men": "LEU0258056500",
+      "women": "LEU0257999900",
+      "women_pct_of_men": "LEU0257936400"
+    },
+    "2840": {
+      "men": "LEU0258056600",
+      "women": "LEU0258000000",
+      "women_pct_of_men": "LEU0257936500"
+    },
+    "2850": {
+      "men": "LEU0258056700",
+      "women": "LEU0258000100",
+      "women_pct_of_men": "LEU0257936600"
+    },
+    "2860": {
+      "men": "LEU0258056800",
+      "women": "LEU0258000200",
+      "women_pct_of_men": "LEU0257936700"
+    },
+    "2900": {
+      "men": "LEU0258056900",
+      "women": "LEU0258000300",
+      "women_pct_of_men": "LEU0257936800"
+    },
+    "2910": {
+      "men": "LEU0258057000",
+      "women": "LEU0258000400",
+      "women_pct_of_men": "LEU0257936900"
+    },
+    "2920": {
+      "men": "LEU0258057100",
+      "women": "LEU0258000500",
+      "women_pct_of_men": "LEU0257937000"
+    },
+    "2960": {
+      "men": "LEU0258057200",
+      "women": "LEU0258000600",
+      "women_pct_of_men": "LEU0257937100"
+    },
+    "2999": {
+      "men": "LEU0258057300",
+      "women": "LEU0258000700",
+      "women_pct_of_men": "LEU0257937200"
+    },
+    "3000": {
+      "men": "LEU0258057400",
+      "women": "LEU0258000800",
+      "women_pct_of_men": "LEU0257937300"
+    },
+    "3010": {
+      "men": "LEU0258057500",
+      "women": "LEU0258000900",
+      "women_pct_of_men": "LEU0257937400"
+    },
+    "3030": {
+      "men": "LEU0258057600",
+      "women": "LEU0258001000",
+      "women_pct_of_men": "LEU0257937500"
+    },
+    "3040": {
+      "men": "LEU0258057700",
+      "women": "LEU0258001100",
+      "women_pct_of_men": "LEU0257937600"
+    },
+    "3050": {
+      "men": "LEU0258057800",
+      "women": "LEU0258001200",
+      "women_pct_of_men": "LEU0257937700"
+    },
+    "3060": {
+      "men": "LEU0258057900",
+      "women": "LEU0258001300",
+      "women_pct_of_men": "LEU0257937800"
+    },
+    "3110": {
+      "men": "LEU0258058000",
+      "women": "LEU0258001400",
+      "women_pct_of_men": "LEU0257937900"
+    },
+    "3120": {
+      "men": "LEU0258058100",
+      "women": "LEU0258001500",
+      "women_pct_of_men": "LEU0257938000"
+    },
+    "3255": {
+      "men": "LEU0258059200",
+      "women": "LEU0258002600",
+      "women_pct_of_men": "LEU0257939100"
+    },
+    "3140": {
+      "men": "LEU0258058200",
+      "women": "LEU0258001600",
+      "women_pct_of_men": "LEU0257938100"
+    },
+    "3150": {
+      "men": "LEU0258058300",
+      "women": "LEU0258001700",
+      "women_pct_of_men": "LEU0257938200"
+    },
+    "3160": {
+      "men": "LEU0258058400",
+      "women": "LEU0258001800",
+      "women_pct_of_men": "LEU0257938300"
+    },
+    "3200": {
+      "men": "LEU0258058500",
+      "women": "LEU0258001900",
+      "women_pct_of_men": "LEU0257938400"
+    },
+    "3210": {
+      "men": "LEU0258058600",
+      "women": "LEU0258002000",
+      "women_pct_of_men": "LEU0257938500"
+    },
+    "3220": {
+      "men": "LEU0258058700",
+      "women": "LEU0258002100",
+      "women_pct_of_men": "LEU0257938600"
+    },
+    "3230": {
+      "men": "LEU0258058800",
+      "women": "LEU0258002200",
+      "women_pct_of_men": "LEU0257938700"
+    },
+    "3245": {
+      "men": "LEU0258059000",
+      "women": "LEU0258002400",
+      "women_pct_of_men": "LEU0257938900"
+    },
+    "3250": {
+      "men": "LEU0258059100",
+      "women": "LEU0258002500",
+      "women_pct_of_men": "LEU0257939000"
+    },
+    "3260": {
+      "men": "LEU0258059600",
+      "women": "LEU0258003000",
+      "women_pct_of_men": "LEU0257939500"
+    },
+    "3300": {
+      "men": "LEU0258059700",
+      "women": "LEU0258003100",
+      "women_pct_of_men": "LEU0257939600"
+    },
+    "3310": {
+      "men": "LEU0258059800",
+      "women": "LEU0258003200",
+      "women_pct_of_men": "LEU0257939700"
+    },
+    "3320": {
+      "men": "LEU0258059900",
+      "women": "LEU0258003300",
+      "women_pct_of_men": "LEU0257939800"
+    },
+    "3400": {
+      "men": "LEU0258060000",
+      "women": "LEU0258003400",
+      "women_pct_of_men": "LEU0257939900"
+    },
+    "3410": {
+      "men": "LEU0254649600",
+      "women": "LEU0254756400"
+    },
+    "3500": {
+      "men": "LEU0258060200",
+      "women": "LEU0258003600",
+      "women_pct_of_men": "LEU0257940100"
+    },
+    "3510": {
+      "men": "LEU0258060300",
+      "women": "LEU0258003700",
+      "women_pct_of_men": "LEU0257940200"
+    },
+    "3520": {
+      "men": "LEU0258060400",
+      "women": "LEU0258003800",
+      "women_pct_of_men": "LEU0257940300"
+    },
+    "3545": {
+      "men": "LEU0258060500",
+      "women": "LEU0258003900",
+      "women_pct_of_men": "LEU0257940400"
+    },
+    "3540": {
+      "men": "LEU0258060600",
+      "women": "LEU0258004000",
+      "women_pct_of_men": "LEU0257940500"
+    },
+    "3597": {
+      "men": "LEU0258060700",
+      "women": "LEU0258004100",
+      "women_pct_of_men": "LEU0257940600"
+    },
+    "3599": {
+      "men": "LEU0258060800",
+      "women": "LEU0258004200",
+      "women_pct_of_men": "LEU0257940700"
+    },
+    "3600": {
+      "men": "LEU0258060900",
+      "women": "LEU0258004300",
+      "women_pct_of_men": "LEU0257940800"
+    },
+    "3610": {
+      "men": "LEU0258061000",
+      "women": "LEU0258004400",
+      "women_pct_of_men": "LEU0257940900"
+    },
+    "3620": {
+      "men": "LEU0258061100",
+      "women": "LEU0258004500",
+      "women_pct_of_men": "LEU0257941000"
+    },
+    "3630": {
+      "men": "LEU0258061200",
+      "women": "LEU0258004600",
+      "women_pct_of_men": "LEU0257941100"
+    },
+    "3640": {
+      "men": "LEU0258061300",
+      "women": "LEU0258004700",
+      "women_pct_of_men": "LEU0257941200"
+    },
+    "3699": {
+      "men": "LEU0258062000",
+      "women": "LEU0258005400",
+      "women_pct_of_men": "LEU0257941900"
+    },
+    "3700": {
+      "men": "LEU0258062100",
+      "women": "LEU0258005500",
+      "women_pct_of_men": "LEU0257942000"
+    },
+    "3710": {
+      "men": "LEU0258062200",
+      "women": "LEU0258005600",
+      "women_pct_of_men": "LEU0257942100"
+    },
+    "3720": {
+      "men": "LEU0258062300",
+      "women": "LEU0258005700",
+      "women_pct_of_men": "LEU0257942200"
+    },
+    "3730": {
+      "men": "LEU0258062400",
+      "women": "LEU0258005800",
+      "women_pct_of_men": "LEU0257942300"
+    },
+    "3740": {
+      "men": "LEU0258062500",
+      "women": "LEU0258005900",
+      "women_pct_of_men": "LEU0257942400"
+    },
+    "3750": {
+      "men": "LEU0258062600",
+      "women": "LEU0258006000",
+      "women_pct_of_men": "LEU0257942500"
+    },
+    "3800": {
+      "men": "LEU0258062700",
+      "women": "LEU0258006100",
+      "women_pct_of_men": "LEU0257942600"
+    },
+    "3820": {
+      "men": "LEU0258062800",
+      "women": "LEU0258006200",
+      "women_pct_of_men": "LEU0257942700"
+    },
+    "3830": {
+      "men": "LEU0258062900",
+      "women": "LEU0258006300",
+      "women_pct_of_men": "LEU0257942800"
+    },
+    "3840": {
+      "men": "LEU0258063000",
+      "women": "LEU0258006400",
+      "women_pct_of_men": "LEU0257942900"
+    },
+    "3850": {
+      "men": "LEU0258063100",
+      "women": "LEU0258006500",
+      "women_pct_of_men": "LEU0257943000"
+    },
+    "3860": {
+      "men": "LEU0258063200",
+      "women": "LEU0258006600",
+      "women_pct_of_men": "LEU0257943100"
+    },
+    "3900": {
+      "men": "LEU0258063300",
+      "women": "LEU0258006700",
+      "women_pct_of_men": "LEU0257943200"
+    },
+    "3910": {
+      "men": "LEU0258063400",
+      "women": "LEU0258006800",
+      "women_pct_of_men": "LEU0257943300"
+    },
+    "3930": {
+      "men": "LEU0258063500",
+      "women": "LEU0258006900",
+      "women_pct_of_men": "LEU0257943400"
+    },
+    "3940": {
+      "men": "LEU0258063600",
+      "women": "LEU0258007000",
+      "women_pct_of_men": "LEU0257943500"
+    },
+    "3999": {
+      "men": "LEU0258063900",
+      "women": "LEU0258007300",
+      "women_pct_of_men": "LEU0257943800"
+    },
+    "4000": {
+      "men": "LEU0258064000",
+      "women": "LEU0258007400",
+      "women_pct_of_men": "LEU0257943900"
+    },
+    "4010": {
+      "men": "LEU0258064100",
+      "women": "LEU0258007500",
+      "women_pct_of_men": "LEU0257944000"
+    },
+    "4020": {
+      "men": "LEU0258064200",
+      "women": "LEU0258007600",
+      "women_pct_of_men": "LEU0257944100"
+    },
+    "4030": {
+      "men": "LEU0258064300",
+      "women": "LEU0258007700",
+      "women_pct_of_men": "LEU0257944200"
+    },
+    "4040": {
+      "men": "LEU0258064400",
+      "women": "LEU0258007800",
+      "women_pct_of_men": "LEU0257944300"
+    },
+    "4050": {
+      "men": "LEU0258064500",
+      "women": "LEU0258007900",
+      "women_pct_of_men": "LEU0257944400"
+    },
+    "4060": {
+      "men": "LEU0258064600",
+      "women": "LEU0258008000",
+      "women_pct_of_men": "LEU0257944500"
+    },
+    "4110": {
+      "men": "LEU0258064700",
+      "women": "LEU0258008100",
+      "women_pct_of_men": "LEU0257944600"
+    },
+    "4120": {
+      "men": "LEU0258064800",
+      "women": "LEU0258008200",
+      "women_pct_of_men": "LEU0257944700"
+    },
+    "4130": {
+      "men": "LEU0258064900",
+      "women": "LEU0258008300",
+      "women_pct_of_men": "LEU0257944800"
+    },
+    "4140": {
+      "men": "LEU0258065000",
+      "women": "LEU0258008400",
+      "women_pct_of_men": "LEU0257944900"
+    },
+    "4150": {
+      "men": "LEU0258065100",
+      "women": "LEU0258008500",
+      "women_pct_of_men": "LEU0257945000"
+    },
+    "4160": {
+      "men": "LEU0258065200",
+      "women": "LEU0258008600",
+      "women_pct_of_men": "LEU0257945100"
+    },
+    "4199": {
+      "men": "LEU0258065300",
+      "women": "LEU0258008700",
+      "women_pct_of_men": "LEU0257945200"
+    },
+    "4200": {
+      "men": "LEU0258065400",
+      "women": "LEU0258008800",
+      "women_pct_of_men": "LEU0257945300"
+    },
+    "4210": {
+      "men": "LEU0258065500",
+      "women": "LEU0258008900",
+      "women_pct_of_men": "LEU0257945400"
+    },
+    "4220": {
+      "men": "LEU0258065600",
+      "women": "LEU0258009000",
+      "women_pct_of_men": "LEU0257945500"
+    },
+    "4230": {
+      "men": "LEU0258065700",
+      "women": "LEU0258009100",
+      "women_pct_of_men": "LEU0257945600"
+    },
+    "4240": {
+      "men": "LEU0258065800",
+      "women": "LEU0258009200",
+      "women_pct_of_men": "LEU0257945700"
+    },
+    "4250": {
+      "men": "LEU0258065900",
+      "women": "LEU0258009300",
+      "women_pct_of_men": "LEU0257945800"
+    },
+    "4299": {
+      "men": "LEU0258066000",
+      "women": "LEU0258009400",
+      "women_pct_of_men": "LEU0257945900"
+    },
+    "4300": {
+      "men": "LEU0258066100",
+      "women": "LEU0258009500",
+      "women_pct_of_men": "LEU0257946000"
+    },
+    "4320": {
+      "men": "LEU0258066200",
+      "women": "LEU0258009600",
+      "women_pct_of_men": "LEU0257946100"
+    },
+    "4340": {
+      "men": "LEU0258066300",
+      "women": "LEU0258009700",
+      "women_pct_of_men": "LEU0257946200"
+    },
+    "4350": {
+      "men": "LEU0258066400",
+      "women": "LEU0258009800",
+      "women_pct_of_men": "LEU0257946300"
+    },
+    "4400": {
+      "men": "LEU0258066500",
+      "women": "LEU0258009900",
+      "women_pct_of_men": "LEU0257946400"
+    },
+    "4410": {
+      "men": "LEU0258066600",
+      "women": "LEU0254762300"
+    },
+    "4420": {
+      "men": "LEU0258066700",
+      "women": "LEU0258010100",
+      "women_pct_of_men": "LEU0257946600"
+    },
+    "4430": {
+      "men": "LEU0258066800",
+      "women": "LEU0258010200",
+      "women_pct_of_men": "LEU0257946700"
+    },
+    "4461": {
+      "men": "LEU0258066900",
+      "women": "LEU0258010300",
+      "women_pct_of_men": "LEU0257946800"
+    },
+    "4500": {
+      "men": "LEU0258067100",
+      "women": "LEU0258010500",
+      "women_pct_of_men": "LEU0257947000"
+    },
+    "4510": {
+      "men": "LEU0258067200",
+      "women": "LEU0258010600",
+      "women_pct_of_men": "LEU0257947100"
+    },
+    "4520": {
+      "men": "LEU0258067300",
+      "women": "LEU0258010700",
+      "women_pct_of_men": "LEU0257947200"
+    },
+    "4530": {
+      "men": "LEU0258067400",
+      "women": "LEU0258010800",
+      "women_pct_of_men": "LEU0257947300"
+    },
+    "4540": {
+      "men": "LEU0258067500",
+      "women": "LEU0258010900",
+      "women_pct_of_men": "LEU0257947400"
+    },
+    "4550": {
+      "men": "LEU0254656400",
+      "women": "LEU0254763200"
+    },
+    "4600": {
+      "men": "LEU0258067600",
+      "women": "LEU0258011000",
+      "women_pct_of_men": "LEU0257947500"
+    },
+    "3602": {
+      "men": "LEU0258067700",
+      "women": "LEU0258011100",
+      "women_pct_of_men": "LEU0257947600"
+    },
+    "4620": {
+      "men": "LEU0258067800",
+      "women": "LEU0258011200",
+      "women_pct_of_men": "LEU0257947700"
+    },
+    "4640": {
+      "men": "LEU0258067900",
+      "women": "LEU0258011300",
+      "women_pct_of_men": "LEU0257947800"
+    },
+    "4650": {
+      "men": "LEU0258068000",
+      "women": "LEU0258011400",
+      "women_pct_of_men": "LEU0257947900"
+    },
+    "4698": {
+      "men": "LEU0258068100",
+      "women": "LEU0258011500",
+      "women_pct_of_men": "LEU0257948000"
+    },
+    "4699": {
+      "men": "LEU0258068200",
+      "women": "LEU0258011600",
+      "women_pct_of_men": "LEU0257948100"
+    },
+    "4700": {
+      "men": "LEU0258068300",
+      "women": "LEU0258011700",
+      "women_pct_of_men": "LEU0257948200"
+    },
+    "4710": {
+      "men": "LEU0258068400",
+      "women": "LEU0258011800",
+      "women_pct_of_men": "LEU0257948300"
+    },
+    "4720": {
+      "men": "LEU0258068500",
+      "women": "LEU0258011900",
+      "women_pct_of_men": "LEU0257948400"
+    },
+    "4740": {
+      "men": "LEU0258068600",
+      "women": "LEU0258012000",
+      "women_pct_of_men": "LEU0257948500"
+    },
+    "4750": {
+      "men": "LEU0258068700",
+      "women": "LEU0258012100",
+      "women_pct_of_men": "LEU0257948600"
+    },
+    "4760": {
+      "men": "LEU0258068800",
+      "women": "LEU0258012200",
+      "women_pct_of_men": "LEU0257948700"
+    },
+    "4800": {
+      "men": "LEU0258068900",
+      "women": "LEU0258012300",
+      "women_pct_of_men": "LEU0257948800"
+    },
+    "4810": {
+      "men": "LEU0258069000",
+      "women": "LEU0258012400",
+      "women_pct_of_men": "LEU0257948900"
+    },
+    "4820": {
+      "men": "LEU0258069100",
+      "women": "LEU0258012500",
+      "women_pct_of_men": "LEU0257949000"
+    },
+    "4830": {
+      "men": "LEU0258069200",
+      "women": "LEU0258012600",
+      "women_pct_of_men": "LEU0257949100"
+    },
+    "4840": {
+      "men": "LEU0258069300",
+      "women": "LEU0258012700",
+      "women_pct_of_men": "LEU0257949200"
+    },
+    "4850": {
+      "men": "LEU0258069400",
+      "women": "LEU0258012800",
+      "women_pct_of_men": "LEU0257949300"
+    },
+    "4900": {
+      "men": "LEU0258069500",
+      "women": "LEU0258012900",
+      "women_pct_of_men": "LEU0257949400"
+    },
+    "4920": {
+      "men": "LEU0258069600",
+      "women": "LEU0258013000",
+      "women_pct_of_men": "LEU0257949500"
+    },
+    "4930": {
+      "men": "LEU0258069700",
+      "women": "LEU0258013100",
+      "women_pct_of_men": "LEU0257949600"
+    },
+    "4940": {
+      "men": "LEU0258069800",
+      "women": "LEU0258013200",
+      "women_pct_of_men": "LEU0257949700"
+    },
+    "4950": {
+      "men": "LEU0258069900",
+      "women": "LEU0258013300",
+      "women_pct_of_men": "LEU0257949800"
+    },
+    "4965": {
+      "men": "LEU0258070000",
+      "women": "LEU0258013400",
+      "women_pct_of_men": "LEU0257949900"
+    },
+    "4999": {
+      "men": "LEU0258070100",
+      "women": "LEU0258013500",
+      "women_pct_of_men": "LEU0257950000"
+    },
+    "5000": {
+      "men": "LEU0258070200",
+      "women": "LEU0258013600",
+      "women_pct_of_men": "LEU0257950100"
+    },
+    "5010": {
+      "men": "LEU0258070300",
+      "women": "LEU0258013700",
+      "women_pct_of_men": "LEU0257950200"
+    },
+    "5020": {
+      "men": "LEU0258070400",
+      "women": "LEU0258013800",
+      "women_pct_of_men": "LEU0257950300"
+    },
+    "5040": {
+      "men": "LEU0258070500",
+      "women": "LEU0258013900",
+      "women_pct_of_men": "LEU0257950400"
+    },
+    "5100": {
+      "men": "LEU0258070600",
+      "women": "LEU0258014000",
+      "women_pct_of_men": "LEU0257950500"
+    },
+    "5110": {
+      "men": "LEU0258070700",
+      "women": "LEU0258014100",
+      "women_pct_of_men": "LEU0257950600"
+    },
+    "5120": {
+      "men": "LEU0258070800",
+      "women": "LEU0258014200",
+      "women_pct_of_men": "LEU0257950700"
+    },
+    "5130": {
+      "men": "LEU0258070900",
+      "women": "LEU0258014300",
+      "women_pct_of_men": "LEU0257950800"
+    },
+    "5140": {
+      "men": "LEU0258071000",
+      "women": "LEU0258014400",
+      "women_pct_of_men": "LEU0257950900"
+    },
+    "5150": {
+      "men": "LEU0258071100",
+      "women": "LEU0258014500",
+      "women_pct_of_men": "LEU0257951000"
+    },
+    "5160": {
+      "men": "LEU0258071200",
+      "women": "LEU0258014600",
+      "women_pct_of_men": "LEU0257951100"
+    },
+    "5200": {
+      "men": "LEU0258071400",
+      "women": "LEU0258014800",
+      "women_pct_of_men": "LEU0257951300"
+    },
+    "5210": {
+      "men": "LEU0258071500",
+      "women": "LEU0258014900",
+      "women_pct_of_men": "LEU0257951400"
+    },
+    "5220": {
+      "men": "LEU0258071600",
+      "women": "LEU0258015000",
+      "women_pct_of_men": "LEU0257951500"
+    },
+    "5230": {
+      "men": "LEU0258071700",
+      "women": "LEU0258015100",
+      "women_pct_of_men": "LEU0257951600"
+    },
+    "5240": {
+      "men": "LEU0258071800",
+      "women": "LEU0258015200",
+      "women_pct_of_men": "LEU0257951700"
+    },
+    "5250": {
+      "men": "LEU0258071900",
+      "women": "LEU0258015300",
+      "women_pct_of_men": "LEU0257951800"
+    },
+    "5260": {
+      "men": "LEU0258072000",
+      "women": "LEU0258015400",
+      "women_pct_of_men": "LEU0257951900"
+    },
+    "5300": {
+      "men": "LEU0258072100",
+      "women": "LEU0258015500",
+      "women_pct_of_men": "LEU0257952000"
+    },
+    "5310": {
+      "men": "LEU0258072200",
+      "women": "LEU0258015600",
+      "women_pct_of_men": "LEU0257952100"
+    },
+    "5320": {
+      "men": "LEU0258072300",
+      "women": "LEU0258015700",
+      "women_pct_of_men": "LEU0257952200"
+    },
+    "5330": {
+      "men": "LEU0258072400",
+      "women": "LEU0258015800",
+      "women_pct_of_men": "LEU0257952300"
+    },
+    "5340": {
+      "men": "LEU0258072500",
+      "women": "LEU0258015900",
+      "women_pct_of_men": "LEU0257952400"
+    },
+    "5350": {
+      "men": "LEU0258072600",
+      "women": "LEU0258016000",
+      "women_pct_of_men": "LEU0257952500"
+    },
+    "5360": {
+      "men": "LEU0258072700",
+      "women": "LEU0258016100",
+      "women_pct_of_men": "LEU0257952600"
+    },
+    "5400": {
+      "men": "LEU0258072800",
+      "women": "LEU0258016200",
+      "women_pct_of_men": "LEU0257952700"
+    },
+    "5410": {
+      "men": "LEU0258072900",
+      "women": "LEU0258016300",
+      "women_pct_of_men": "LEU0257952800"
+    },
+    "5420": {
+      "men": "LEU0258073000",
+      "women": "LEU0258016400",
+      "women_pct_of_men": "LEU0257952900"
+    },
+    "5500": {
+      "men": "LEU0258073100",
+      "women": "LEU0258016500",
+      "women_pct_of_men": "LEU0257953000"
+    },
+    "5510": {
+      "men": "LEU0258073200",
+      "women": "LEU0258016600",
+      "women_pct_of_men": "LEU0257953100"
+    },
+    "5520": {
+      "men": "LEU0258073300",
+      "women": "LEU0258016700",
+      "women_pct_of_men": "LEU0257953200"
+    },
+    "5530": {
+      "men": "LEU0258073400",
+      "women": "LEU0258016800",
+      "women_pct_of_men": "LEU0257953300"
+    },
+    "5540": {
+      "men": "LEU0258073500",
+      "women": "LEU0258016900",
+      "women_pct_of_men": "LEU0257953400"
+    },
+    "5550": {
+      "men": "LEU0258073600",
+      "women": "LEU0258017000",
+      "women_pct_of_men": "LEU0257953500"
+    },
+    "5560": {
+      "men": "LEU0258073700",
+      "women": "LEU0258017100",
+      "women_pct_of_men": "LEU0257953600"
+    },
+    "5600": {
+      "men": "LEU0258073800",
+      "women": "LEU0258017200",
+      "women_pct_of_men": "LEU0257953700"
+    },
+    "5610": {
+      "men": "LEU0258073900",
+      "women": "LEU0258017300",
+      "women_pct_of_men": "LEU0257953800"
+    },
+    "9645": {
+      "men": "LEU0258074000",
+      "women": "LEU0258017400",
+      "women_pct_of_men": "LEU0257953900"
+    },
+    "5630": {
+      "men": "LEU0258074100",
+      "women": "LEU0258017500",
+      "women_pct_of_men": "LEU0257954000"
+    },
+    "5700": {
+      "men": "LEU0258074200",
+      "women": "LEU0258017600",
+      "women_pct_of_men": "LEU0257954100"
+    },
+    "1108": {
+      "men": "LEU0258074300",
+      "women": "LEU0258017700",
+      "women_pct_of_men": "LEU0257954200"
+    },
+    "5810": {
+      "men": "LEU0258074400",
+      "women": "LEU0258017800",
+      "women_pct_of_men": "LEU0257954300"
+    },
+    "5820": {
+      "men": "LEU0258074500",
+      "women": "LEU0258017900",
+      "women_pct_of_men": "LEU0257954400"
+    },
+    "5830": {
+      "men": "LEU0258074600",
+      "women": "LEU0258018000"
+    },
+    "5840": {
+      "men": "LEU0258074700",
+      "women": "LEU0258018100",
+      "women_pct_of_men": "LEU0257954600"
+    },
+    "5850": {
+      "men": "LEU0258074800",
+      "women": "LEU0258018200",
+      "women_pct_of_men": "LEU0257954700"
+    },
+    "5860": {
+      "men": "LEU0258074900",
+      "women": "LEU0258018300",
+      "women_pct_of_men": "LEU0257954800"
+    },
+    "5900": {
+      "men": "LEU0258075000",
+      "women": "LEU0258018400",
+      "women_pct_of_men": "LEU0257954900"
+    },
+    "5910": {
+      "men": "LEU0258075100",
+      "women": "LEU0258018500",
+      "women_pct_of_men": "LEU0257955000"
+    },
+    "5920": {
+      "men": "LEU0258075200",
+      "women": "LEU0258018600",
+      "women_pct_of_men": "LEU0257955100"
+    },
+    "5940": {
+      "men": "LEU0258075300",
+      "women": "LEU0258018700",
+      "women_pct_of_men": "LEU0257955200"
+    },
+    "5998": {
+      "men": "LEU0258075400",
+      "women": "LEU0258018800",
+      "women_pct_of_men": "LEU0257955300"
+    },
+    "5999": {
+      "men": "LEU0258075500",
+      "women": "LEU0258018900",
+      "women_pct_of_men": "LEU0257955400"
+    },
+    "6010": {
+      "men": "LEU0258075700",
+      "women": "LEU0258019100",
+      "women_pct_of_men": "LEU0257955600"
+    },
+    "6020": {
+      "men": "LEU0258075800",
+      "women": "LEU0258019200",
+      "women_pct_of_men": "LEU0257955700"
+    },
+    "6040": {
+      "men": "LEU0258075900",
+      "women": "LEU0258019300",
+      "women_pct_of_men": "LEU0257955800"
+    },
+    "6050": {
+      "men": "LEU0258076000",
+      "women": "LEU0258019400",
+      "women_pct_of_men": "LEU0257955900"
+    },
+    "6100": {
+      "men": "LEU0258076100",
+      "women": "LEU0258019500",
+      "women_pct_of_men": "LEU0257956000"
+    },
+    "6110": {
+      "men": "LEU0258076200",
+      "women": "LEU0258019600",
+      "women_pct_of_men": "LEU0257956100"
+    },
+    "6120": {
+      "men": "LEU0258076300",
+      "women": "LEU0258019700",
+      "women_pct_of_men": "LEU0257956200"
+    },
+    "6130": {
+      "men": "LEU0258076400",
+      "women": "LEU0258019800",
+      "women_pct_of_men": "LEU0257956300"
+    },
+    "6199": {
+      "men": "LEU0258076500",
+      "women": "LEU0258019900",
+      "women_pct_of_men": "LEU0257956400"
+    },
+    "6200": {
+      "men": "LEU0258076600",
+      "women": "LEU0258020000",
+      "women_pct_of_men": "LEU0257956500"
+    },
+    "6210": {
+      "men": "LEU0258076700",
+      "women": "LEU0258020100",
+      "women_pct_of_men": "LEU0257956600"
+    },
+    "6220": {
+      "men": "LEU0258076800",
+      "women": "LEU0258020200",
+      "women_pct_of_men": "LEU0257956700"
+    },
+    "6230": {
+      "men": "LEU0258076900",
+      "women": "LEU0258020300",
+      "women_pct_of_men": "LEU0257956800"
+    },
+    "6240": {
+      "men": "LEU0258077000",
+      "women": "LEU0258020400",
+      "women_pct_of_men": "LEU0257956900"
+    },
+    "6250": {
+      "men": "LEU0258077100",
+      "women": "LEU0258020500",
+      "women_pct_of_men": "LEU0257957000"
+    },
+    "6260": {
+      "men": "LEU0258077200",
+      "women": "LEU0258020600",
+      "women_pct_of_men": "LEU0257957100"
+    },
+    "6300": {
+      "men": "LEU0258077300",
+      "women": "LEU0258020700",
+      "women_pct_of_men": "LEU0257957200"
+    },
+    "6310": {
+      "men": "LEU0258077400",
+      "women": "LEU0254773000"
+    },
+    "6320": {
+      "men": "LEU0258077500",
+      "women": "LEU0258020900",
+      "women_pct_of_men": "LEU0257957400"
+    },
+    "6330": {
+      "men": "LEU0258077600",
+      "women": "LEU0258021000",
+      "women_pct_of_men": "LEU0257957500"
+    },
+    "6355": {
+      "men": "LEU0258077700",
+      "women": "LEU0258021100",
+      "women_pct_of_men": "LEU0257957600"
+    },
+    "6360": {
+      "men": "LEU0258077800",
+      "women": "LEU0258021200",
+      "women_pct_of_men": "LEU0257957700"
+    },
+    "6400": {
+      "men": "LEU0258077900",
+      "women": "LEU0258021300",
+      "women_pct_of_men": "LEU0257957800"
+    },
+    "6420": {
+      "men": "LEU0258078000",
+      "women": "LEU0258021400",
+      "women_pct_of_men": "LEU0257957900"
+    },
+    "6430": {
+      "men": "LEU0258078100",
+      "women": "LEU0254773700"
+    },
+    "6440": {
+      "men": "LEU0258078200",
+      "women": "LEU0258021600",
+      "women_pct_of_men": "LEU0257958100"
+    },
+    "6460": {
+      "men": "LEU0258078300",
+      "women": "LEU0258021700",
+      "women_pct_of_men": "LEU0257958200"
+    },
+    "6500": {
+      "men": "LEU0258078400",
+      "women": "LEU0254774000"
+    },
+    "6515": {
+      "men": "LEU0258078500",
+      "women": "LEU0258021900",
+      "women_pct_of_men": "LEU0257958400"
+    },
+    "6520": {
+      "men": "LEU0258078600",
+      "women": "LEU0258022000",
+      "women_pct_of_men": "LEU0257958500"
+    },
+    "6530": {
+      "men": "LEU0258078700",
+      "women": "LEU0258022100",
+      "women_pct_of_men": "LEU0257958600"
+    },
+    "6600": {
+      "men": "LEU0258078900",
+      "women": "LEU0258022300",
+      "women_pct_of_men": "LEU0257958800"
+    },
+    "6660": {
+      "men": "LEU0258079000",
+      "women": "LEU0258022400",
+      "women_pct_of_men": "LEU0257958900"
+    },
+    "6700": {
+      "men": "LEU0258079100",
+      "women": "LEU0258022500",
+      "women_pct_of_men": "LEU0257959000"
+    },
+    "6710": {
+      "men": "LEU0258079200",
+      "women": "LEU0258022600",
+      "women_pct_of_men": "LEU0257959100"
+    },
+    "6720": {
+      "men": "LEU0258079300",
+      "women": "LEU0258022700",
+      "women_pct_of_men": "LEU0257959200"
+    },
+    "6730": {
+      "men": "LEU0258079400",
+      "women": "LEU0258022800",
+      "women_pct_of_men": "LEU0257959300"
+    },
+    "6740": {
+      "men": "LEU0258079500",
+      "women": "LEU0254775000"
+    },
+    "6750": {
+      "men": "LEU0258079600",
+      "women": "LEU0258023000",
+      "women_pct_of_men": "LEU0257959500"
+    },
+    "6765": {
+      "men": "LEU0258079700",
+      "women": "LEU0258023100",
+      "women_pct_of_men": "LEU0257959600"
+    },
+    "6800": {
+      "men": "LEU0258079800",
+      "women": "LEU0258023200",
+      "women_pct_of_men": "LEU0257959700"
+    },
+    "6820": {
+      "men": "LEU0258079900",
+      "women": "LEU0258023300",
+      "women_pct_of_men": "LEU0257959800"
+    },
+    "6835": {
+      "men": "LEU0258080000",
+      "women": "LEU0258023400",
+      "women_pct_of_men": "LEU0257959900"
+    },
+    "6840": {
+      "men": "LEU0258080100",
+      "women": "LEU0258023500",
+      "women_pct_of_men": "LEU0257960000"
+    },
+    "6910": {
+      "men": "LEU0258080200",
+      "women": "LEU0254775700"
+    },
+    "6920": {
+      "men": "LEU0258080300",
+      "women": "LEU0258023700",
+      "women_pct_of_men": "LEU0257960200"
+    },
+    "6930": {
+      "men": "LEU0258080400",
+      "women": "LEU0258023800",
+      "women_pct_of_men": "LEU0257960300"
+    },
+    "6940": {
+      "men": "LEU0258080500",
+      "women": "LEU0258023900",
+      "women_pct_of_men": "LEU0257960400"
+    },
+    "6999": {
+      "men": "LEU0258080600",
+      "women": "LEU0258024000",
+      "women_pct_of_men": "LEU0257960500"
+    },
+    "7000": {
+      "men": "LEU0258080700",
+      "women": "LEU0258024100",
+      "women_pct_of_men": "LEU0257960600"
+    },
+    "7010": {
+      "men": "LEU0258080800",
+      "women": "LEU0258024200",
+      "women_pct_of_men": "LEU0257960700"
+    },
+    "7020": {
+      "men": "LEU0258080900",
+      "women": "LEU0258024300",
+      "women_pct_of_men": "LEU0257960800"
+    },
+    "7030": {
+      "men": "LEU0258081000",
+      "women": "LEU0258024400",
+      "women_pct_of_men": "LEU0257960900"
+    },
+    "7040": {
+      "men": "LEU0258081100",
+      "women": "LEU0258024500",
+      "women_pct_of_men": "LEU0257961000"
+    },
+    "7050": {
+      "men": "LEU0258081200",
+      "women": "LEU0254776700"
+    },
+    "7100": {
+      "men": "LEU0258081300",
+      "women": "LEU0258024700",
+      "women_pct_of_men": "LEU0257961200"
+    },
+    "7110": {
+      "men": "LEU0258081400",
+      "women": "LEU0258024800",
+      "women_pct_of_men": "LEU0257961300"
+    },
+    "7120": {
+      "men": "LEU0258081500",
+      "women": "LEU0258024900",
+      "women_pct_of_men": "LEU0257961400"
+    },
+    "7130": {
+      "men": "LEU0258081600",
+      "women": "LEU0258025000",
+      "women_pct_of_men": "LEU0257961500"
+    },
+    "7140": {
+      "men": "LEU0258081700",
+      "women": "LEU0258025100",
+      "women_pct_of_men": "LEU0257961600"
+    },
+    "7150": {
+      "men": "LEU0258081800",
+      "women": "LEU0258025200",
+      "women_pct_of_men": "LEU0257961700"
+    },
+    "7160": {
+      "men": "LEU0258081900",
+      "women": "LEU0258025300",
+      "women_pct_of_men": "LEU0257961800"
+    },
+    "7200": {
+      "men": "LEU0258082000",
+      "women": "LEU0258025400",
+      "women_pct_of_men": "LEU0257961900"
+    },
+    "7210": {
+      "men": "LEU0258082100",
+      "women": "LEU0258025500",
+      "women_pct_of_men": "LEU0257962000"
+    },
+    "7220": {
+      "men": "LEU0258082200",
+      "women": "LEU0258025600",
+      "women_pct_of_men": "LEU0257962100"
+    },
+    "7240": {
+      "men": "LEU0258082300",
+      "women": "LEU0258025700",
+      "women_pct_of_men": "LEU0257962200"
+    },
+    "7260": {
+      "men": "LEU0258082400",
+      "women": "LEU0258025800",
+      "women_pct_of_men": "LEU0257962300"
+    },
+    "7300": {
+      "men": "LEU0258082500",
+      "women": "LEU0258025900",
+      "women_pct_of_men": "LEU0257962400"
+    },
+    "7315": {
+      "men": "LEU0258082600",
+      "women": "LEU0258026000",
+      "women_pct_of_men": "LEU0257962500"
+    },
+    "7320": {
+      "men": "LEU0258082700",
+      "women": "LEU0258026100",
+      "women_pct_of_men": "LEU0257962600"
+    },
+    "7330": {
+      "men": "LEU0258082800",
+      "women": "LEU0258026200",
+      "women_pct_of_men": "LEU0257962700"
+    },
+    "7340": {
+      "men": "LEU0258082900",
+      "women": "LEU0258026300",
+      "women_pct_of_men": "LEU0257962800"
+    },
+    "7350": {
+      "men": "LEU0258083000",
+      "women": "LEU0258026400",
+      "women_pct_of_men": "LEU0257962900"
+    },
+    "7360": {
+      "men": "LEU0258083100",
+      "women": "LEU0258026500",
+      "women_pct_of_men": "LEU0257963000"
+    },
+    "7410": {
+      "men": "LEU0258083200",
+      "women": "LEU0258026600",
+      "women_pct_of_men": "LEU0257963100"
+    },
+    "7420": {
+      "men": "LEU0258083300",
+      "women": "LEU0258026700",
+      "women_pct_of_men": "LEU0257963200"
+    },
+    "7430": {
+      "men": "LEU0258083400",
+      "women": "LEU0258026800",
+      "women_pct_of_men": "LEU0257963300"
+    },
+    "7510": {
+      "men": "LEU0258083600",
+      "women": "LEU0258027000",
+      "women_pct_of_men": "LEU0257963500"
+    },
+    "7520": {
+      "men": "LEU0258083700",
+      "women": "LEU0254779100"
+    },
+    "7540": {
+      "men": "LEU0258083800",
+      "women": "LEU0258027200",
+      "women_pct_of_men": "LEU0257963700"
+    },
+    "7550": {
+      "men": "LEU0258083900",
+      "women": "LEU0258027300",
+      "women_pct_of_men": "LEU0257963800"
+    },
+    "7560": {
+      "men": "LEU0258084000",
+      "women": "LEU0258027400",
+      "women_pct_of_men": "LEU0257963900"
+    },
+    "7600": {
+      "men": "LEU0258084100",
+      "women": "LEU0254779500"
+    },
+    "7610": {
+      "men": "LEU0258084200",
+      "women": "LEU0258027600",
+      "women_pct_of_men": "LEU0257964100"
+    },
+    "7630": {
+      "men": "LEU0258084300",
+      "women": "LEU0258027700",
+      "women_pct_of_men": "LEU0257964200"
+    },
+    "7698": {
+      "men": "LEU0258084400",
+      "women": "LEU0258027800",
+      "women_pct_of_men": "LEU0257964300"
+    },
+    "7699": {
+      "men": "LEU0258084500",
+      "women": "LEU0258027900",
+      "women_pct_of_men": "LEU0257964400"
+    },
+    "7700": {
+      "men": "LEU0258084600",
+      "women": "LEU0258028000",
+      "women_pct_of_men": "LEU0257964500"
+    },
+    "7710": {
+      "men": "LEU0258084700",
+      "women": "LEU0258028100",
+      "women_pct_of_men": "LEU0257964600"
+    },
+    "7720": {
+      "men": "LEU0258084800",
+      "women": "LEU0258028200",
+      "women_pct_of_men": "LEU0257964700"
+    },
+    "7730": {
+      "men": "LEU0258084900",
+      "women": "LEU0258028300",
+      "women_pct_of_men": "LEU0257964800"
+    },
+    "7740": {
+      "men": "LEU0258085000",
+      "women": "LEU0258028400",
+      "women_pct_of_men": "LEU0257964900"
+    },
+    "7750": {
+      "men": "LEU0258085100",
+      "women": "LEU0258028500",
+      "women_pct_of_men": "LEU0257965000"
+    },
+    "7800": {
+      "men": "LEU0258085200",
+      "women": "LEU0258028600",
+      "women_pct_of_men": "LEU0257965100"
+    },
+    "7810": {
+      "men": "LEU0258085300",
+      "women": "LEU0258028700",
+      "women_pct_of_men": "LEU0257965200"
+    },
+    "7830": {
+      "men": "LEU0258085400",
+      "women": "LEU0258028800",
+      "women_pct_of_men": "LEU0257965300"
+    },
+    "7840": {
+      "men": "LEU0258085500",
+      "women": "LEU0258028900",
+      "women_pct_of_men": "LEU0257965400"
+    },
+    "7850": {
+      "men": "LEU0258085600",
+      "women": "LEU0258029000",
+      "women_pct_of_men": "LEU0257965500"
+    },
+    "7905": {
+      "men": "LEU0258085800",
+      "women": "LEU0258029200",
+      "women_pct_of_men": "LEU0257965700"
+    },
+    "7920": {
+      "men": "LEU0258085900",
+      "women": "LEU0258029300",
+      "women_pct_of_men": "LEU0257965800"
+    },
+    "7930": {
+      "men": "LEU0258086000",
+      "women": "LEU0258029400",
+      "women_pct_of_men": "LEU0257965900"
+    },
+    "7940": {
+      "men": "LEU0258086100",
+      "women": "LEU0258029500",
+      "women_pct_of_men": "LEU0257966000"
+    },
+    "7950": {
+      "men": "LEU0258086200",
+      "women": "LEU0258029600",
+      "women_pct_of_men": "LEU0257966100"
+    },
+    "7960": {
+      "men": "LEU0258086300",
+      "women": "LEU0258029700",
+      "women_pct_of_men": "LEU0257966200"
+    },
+    "8000": {
+      "men": "LEU0258086400",
+      "women": "LEU0258029800",
+      "women_pct_of_men": "LEU0257966300"
+    },
+    "8010": {
+      "men": "LEU0258086500",
+      "women": "LEU0258029900",
+      "women_pct_of_men": "LEU0257966400"
+    },
+    "8020": {
+      "men": "LEU0258086600",
+      "women": "LEU0258030000",
+      "women_pct_of_men": "LEU0257966500"
+    },
+    "8030": {
+      "men": "LEU0258086700",
+      "women": "LEU0258030100",
+      "women_pct_of_men": "LEU0257966600"
+    },
+    "8040": {
+      "men": "LEU0258086800",
+      "women": "LEU0258030200",
+      "women_pct_of_men": "LEU0257966700"
+    },
+    "8060": {
+      "men": "LEU0258086900",
+      "women": "LEU0258030300",
+      "women_pct_of_men": "LEU0257966800"
+    },
+    "8100": {
+      "men": "LEU0258087000",
+      "women": "LEU0258030400",
+      "women_pct_of_men": "LEU0257966900"
+    },
+    "8120": {
+      "men": "LEU0258087100",
+      "women": "LEU0258030500",
+      "women_pct_of_men": "LEU0257967000"
+    },
+    "8130": {
+      "men": "LEU0258087200",
+      "women": "LEU0258030600",
+      "women_pct_of_men": "LEU0257967100"
+    },
+    "8140": {
+      "men": "LEU0258087300",
+      "women": "LEU0258030700",
+      "women_pct_of_men": "LEU0257967200"
+    },
+    "8150": {
+      "men": "LEU0258087400",
+      "women": "LEU0258030800",
+      "women_pct_of_men": "LEU0257967300"
+    },
+    "8160": {
+      "men": "LEU0258087500",
+      "women": "LEU0258030900",
+      "women_pct_of_men": "LEU0257967400"
+    },
+    "8200": {
+      "men": "LEU0258087600",
+      "women": "LEU0258031000",
+      "women_pct_of_men": "LEU0257967500"
+    },
+    "8210": {
+      "men": "LEU0258087700",
+      "women": "LEU0254783000"
+    },
+    "8220": {
+      "men": "LEU0258087800",
+      "women": "LEU0258031200",
+      "women_pct_of_men": "LEU0257967700"
+    },
+    "8240": {
+      "men": "LEU0254676500",
+      "women": "LEU0254783300"
+    },
+    "8250": {
+      "men": "LEU0258087900",
+      "women": "LEU0258031300",
+      "women_pct_of_men": "LEU0257967800"
+    },
+    "8260": {
+      "men": "LEU0254676700",
+      "women": "LEU0254783500"
+    },
+    "8300": {
+      "men": "LEU0258088200",
+      "women": "LEU0258031600",
+      "women_pct_of_men": "LEU0257968100"
+    },
+    "8310": {
+      "men": "LEU0258088300",
+      "women": "LEU0258031700",
+      "women_pct_of_men": "LEU0257968200"
+    },
+    "8320": {
+      "men": "LEU0258088400",
+      "women": "LEU0258031800",
+      "women_pct_of_men": "LEU0257968300"
+    },
+    "8330": {
+      "men": "LEU0258088500",
+      "women": "LEU0258031900",
+      "women_pct_of_men": "LEU0257968400"
+    },
+    "8340": {
+      "men": "LEU0258088600",
+      "women": "LEU0258032000",
+      "women_pct_of_men": "LEU0257968500"
+    },
+    "8350": {
+      "men": "LEU0258088700",
+      "women": "LEU0258032100",
+      "women_pct_of_men": "LEU0257968600"
+    },
+    "8360": {
+      "men": "LEU0258088800",
+      "women": "LEU0258032200",
+      "women_pct_of_men": "LEU0257968700"
+    },
+    "8400": {
+      "men": "LEU0258088900",
+      "women": "LEU0258032300",
+      "women_pct_of_men": "LEU0257968800"
+    },
+    "8410": {
+      "men": "LEU0258089000",
+      "women": "LEU0258032400",
+      "women_pct_of_men": "LEU0257968900"
+    },
+    "8420": {
+      "men": "LEU0258089100",
+      "women": "LEU0258032500",
+      "women_pct_of_men": "LEU0257969000"
+    },
+    "8430": {
+      "men": "LEU0258089200",
+      "women": "LEU0254784600"
+    },
+    "8440": {
+      "men": "LEU0258089300",
+      "women": "LEU0258032700",
+      "women_pct_of_men": "LEU0257969200"
+    },
+    "8450": {
+      "men": "LEU0258089400",
+      "women": "LEU0258032800",
+      "women_pct_of_men": "LEU0257969300"
+    },
+    "8460": {
+      "men": "LEU0258089500",
+      "women": "LEU0258032900",
+      "women_pct_of_men": "LEU0257969400"
+    },
+    "8500": {
+      "men": "LEU0258089600",
+      "women": "LEU0258033000",
+      "women_pct_of_men": "LEU0257969500"
+    },
+    "8510": {
+      "men": "LEU0258089700",
+      "women": "LEU0258033100",
+      "women_pct_of_men": "LEU0257969600"
+    },
+    "8520": {
+      "men": "LEU0258089800",
+      "women": "LEU0254785200"
+    },
+    "8530": {
+      "men": "LEU0258089900",
+      "women": "LEU0258033300",
+      "women_pct_of_men": "LEU0257969800"
+    },
+    "8540": {
+      "men": "LEU0258090000",
+      "women": "LEU0258033400",
+      "women_pct_of_men": "LEU0257969900"
+    },
+    "8550": {
+      "men": "LEU0258090100",
+      "women": "LEU0258033500",
+      "women_pct_of_men": "LEU0257970000"
+    },
+    "8600": {
+      "men": "LEU0258090200",
+      "women": "LEU0258033600",
+      "women_pct_of_men": "LEU0257970100"
+    },
+    "8610": {
+      "men": "LEU0258090300",
+      "women": "LEU0258033700",
+      "women_pct_of_men": "LEU0257970200"
+    },
+    "8620": {
+      "men": "LEU0258090400",
+      "women": "LEU0258033800",
+      "women_pct_of_men": "LEU0257970300"
+    },
+    "8630": {
+      "men": "LEU0258090500",
+      "women": "LEU0258033900",
+      "women_pct_of_men": "LEU0257970400"
+    },
+    "8640": {
+      "men": "LEU0258090600",
+      "women": "LEU0258034000",
+      "women_pct_of_men": "LEU0257970500"
+    },
+    "8650": {
+      "men": "LEU0258090700",
+      "women": "LEU0258034100",
+      "women_pct_of_men": "LEU0257970600"
+    },
+    "8710": {
+      "men": "LEU0258090800",
+      "women": "LEU0258034200",
+      "women_pct_of_men": "LEU0257970700"
+    },
+    "8720": {
+      "men": "LEU0258090900",
+      "women": "LEU0258034300",
+      "women_pct_of_men": "LEU0257970800"
+    },
+    "8730": {
+      "men": "LEU0258091000",
+      "women": "LEU0258034400",
+      "women_pct_of_men": "LEU0257970900"
+    },
+    "8740": {
+      "men": "LEU0258091100",
+      "women": "LEU0258034500",
+      "women_pct_of_men": "LEU0257971000"
+    },
+    "8750": {
+      "men": "LEU0258091200",
+      "women": "LEU0258034600",
+      "women_pct_of_men": "LEU0257971100"
+    },
+    "8760": {
+      "men": "LEU0258091300",
+      "women": "LEU0258034700",
+      "women_pct_of_men": "LEU0257971200"
+    },
+    "8800": {
+      "men": "LEU0258091400",
+      "women": "LEU0258034800",
+      "women_pct_of_men": "LEU0257971300"
+    },
+    "8810": {
+      "men": "LEU0258091500",
+      "women": "LEU0258034900",
+      "women_pct_of_men": "LEU0257971400"
+    },
+    "8830": {
+      "men": "LEU0258091600",
+      "women": "LEU0258035000",
+      "women_pct_of_men": "LEU0257971500"
+    },
+    "8840": {
+      "men": "LEU0258091700",
+      "women": "LEU0258035100",
+      "women_pct_of_men": "LEU0257971600"
+    },
+    "8850": {
+      "men": "LEU0258091800",
+      "women": "LEU0258035200",
+      "women_pct_of_men": "LEU0257971700"
+    },
+    "8860": {
+      "men": "LEU0258091900",
+      "women": "LEU0258035300",
+      "women_pct_of_men": "LEU0257971800"
+    },
+    "8900": {
+      "men": "LEU0258092000",
+      "women": "LEU0258035400",
+      "women_pct_of_men": "LEU0257971900"
+    },
+    "8910": {
+      "men": "LEU0258092100",
+      "women": "LEU0258035500",
+      "women_pct_of_men": "LEU0257972000"
+    },
+    "8920": {
+      "men": "LEU0258092200",
+      "women": "LEU0258035600",
+      "women_pct_of_men": "LEU0257972100"
+    },
+    "8930": {
+      "men": "LEU0258092300",
+      "women": "LEU0258035700",
+      "women_pct_of_men": "LEU0257972200"
+    },
+    "8940": {
+      "men": "LEU0258092400",
+      "women": "LEU0258035800",
+      "women_pct_of_men": "LEU0257972300"
+    },
+    "8950": {
+      "men": "LEU0258092500",
+      "women": "LEU0258035900",
+      "women_pct_of_men": "LEU0257972400"
+    },
+    "8965": {
+      "men": "LEU0258092600",
+      "women": "LEU0258036000",
+      "women_pct_of_men": "LEU0257972500"
+    },
+    "8999": {
+      "men": "LEU0258092700",
+      "women": "LEU0258036100",
+      "women_pct_of_men": "LEU0257972600"
+    },
+    "9005": {
+      "men": "LEU0258092800",
+      "women": "LEU0258036200",
+      "women_pct_of_men": "LEU0257972700"
+    },
+    "9030": {
+      "men": "LEU0258092900",
+      "women": "LEU0258036300",
+      "women_pct_of_men": "LEU0257972800"
+    },
+    "9040": {
+      "men": "LEU0258093000",
+      "women": "LEU0258036400",
+      "women_pct_of_men": "LEU0257972900"
+    },
+    "9110": {
+      "men": "LEU0258093200",
+      "women": "LEU0258036600",
+      "women_pct_of_men": "LEU0257973100"
+    },
+    "9120": {
+      "men": "LEU0258093300",
+      "women": "LEU0258036700",
+      "women_pct_of_men": "LEU0257973200"
+    },
+    "9130": {
+      "men": "LEU0258093400",
+      "women": "LEU0258036800",
+      "women_pct_of_men": "LEU0257973300"
+    },
+    "9140": {
+      "men": "LEU0258093500",
+      "women": "LEU0258036900",
+      "women_pct_of_men": "LEU0257973400"
+    },
+    "9150": {
+      "men": "LEU0258093600",
+      "women": "LEU0258037000",
+      "women_pct_of_men": "LEU0257973500"
+    },
+    "9200": {
+      "men": "LEU0258093700",
+      "women": "LEU0258037100",
+      "women_pct_of_men": "LEU0257973600"
+    },
+    "9230": {
+      "men": "LEU0258093800",
+      "women": "LEU0258037200",
+      "women_pct_of_men": "LEU0257973700"
+    },
+    "9240": {
+      "men": "LEU0258093900",
+      "women": "LEU0258037300",
+      "women_pct_of_men": "LEU0257973800"
+    },
+    "9260": {
+      "men": "LEU0258094000",
+      "women": "LEU0258037400",
+      "women_pct_of_men": "LEU0257973900"
+    },
+    "9300": {
+      "men": "LEU0258094100",
+      "women": "LEU0258037500",
+      "women_pct_of_men": "LEU0257974000"
+    },
+    "9310": {
+      "men": "LEU0258094200",
+      "women": "LEU0258037600",
+      "women_pct_of_men": "LEU0257974100"
+    },
+    "9330": {
+      "men": "LEU0258094300",
+      "women": "LEU0258037700",
+      "women_pct_of_men": "LEU0257974200"
+    },
+    "9340": {
+      "men": "LEU0258094400",
+      "women": "LEU0258037800",
+      "women_pct_of_men": "LEU0257974300"
+    },
+    "9350": {
+      "men": "LEU0258094500",
+      "women": "LEU0258037900",
+      "women_pct_of_men": "LEU0257974400"
+    },
+    "9360": {
+      "men": "LEU0258094600",
+      "women": "LEU0258038000",
+      "women_pct_of_men": "LEU0257974500"
+    },
+    "9410": {
+      "men": "LEU0258094700",
+      "women": "LEU0258038100",
+      "women_pct_of_men": "LEU0257974600"
+    },
+    "9420": {
+      "men": "LEU0258094900",
+      "women": "LEU0258038300",
+      "women_pct_of_men": "LEU0257974800"
+    },
+    "9500": {
+      "men": "LEU0258095000",
+      "women": "LEU0258038400",
+      "women_pct_of_men": "LEU0257974900"
+    },
+    "9510": {
+      "men": "LEU0258095100",
+      "women": "LEU0258038500",
+      "women_pct_of_men": "LEU0257975000"
+    },
+    "9520": {
+      "men": "LEU0258095200",
+      "women": "LEU0258038600",
+      "women_pct_of_men": "LEU0257975100"
+    },
+    "9560": {
+      "men": "LEU0258095300",
+      "women": "LEU0258038700",
+      "women_pct_of_men": "LEU0257975200"
+    },
+    "9600": {
+      "men": "LEU0258095400",
+      "women": "LEU0258038800",
+      "women_pct_of_men": "LEU0257975300"
+    },
+    "9610": {
+      "men": "LEU0258095500",
+      "women": "LEU0258038900",
+      "women_pct_of_men": "LEU0257975400"
+    },
+    "9620": {
+      "men": "LEU0258095600",
+      "women": "LEU0258039000",
+      "women_pct_of_men": "LEU0257975500"
+    },
+    "9630": {
+      "men": "LEU0258095700",
+      "women": "LEU0258039100",
+      "women_pct_of_men": "LEU0257975600"
+    },
+    "9640": {
+      "men": "LEU0258095800",
+      "women": "LEU0258039200",
+      "women_pct_of_men": "LEU0257975700"
+    },
+    "9650": {
+      "men": "LEU0258095900",
+      "women": "LEU0258039300",
+      "women_pct_of_men": "LEU0257975800"
+    },
+    "9720": {
+      "men": "LEU0258096000",
+      "women": "LEU0258039400",
+      "women_pct_of_men": "LEU0257975900"
+    },
+    "9730": {
+      "men": "LEU0258096100",
+      "women": "LEU0254791300"
+    },
+    "9740": {
+      "men": "LEU0258096200",
+      "women": "LEU0258039600",
+      "women_pct_of_men": "LEU0257976100"
+    },
+    "9750": {
+      "men": "LEU0258096300",
+      "women": "LEU0258039700",
+      "women_pct_of_men": "LEU0257976200"
+    },
+    "0135": {
+      "men": "LEU0258041200",
+      "women": "LEU0257984600",
+      "women_pct_of_men": "LEU0257921100"
+    },
+    "0137": {
+      "men": "LEU0258041400",
+      "women": "LEU0257984800",
+      "women_pct_of_men": "LEU0257921300"
+    },
+    "0205": {
+      "men": "LEU0258041800",
+      "women": "LEU0257985200",
+      "women_pct_of_men": "LEU0257921700"
+    },
+    "0325": {
+      "men": "LEU0258042300",
+      "women": "LEU0257985700",
+      "women_pct_of_men": "LEU0257922200"
+    },
+    "0425": {
+      "men": "LEU0258043100",
+      "women": "LEU0257986500",
+      "women_pct_of_men": "LEU0257923000"
+    },
+    "0565": {
+      "men": "LEU0258043900",
+      "women": "LEU0257987300",
+      "women_pct_of_men": "LEU0257923800"
+    },
+    "0630": {
+      "men": "LEU0258044100",
+      "women": "LEU0257987500",
+      "women_pct_of_men": "LEU0257924000"
+    },
+    "0640": {
+      "men": "LEU0258044200",
+      "women": "LEU0257987600",
+      "women_pct_of_men": "LEU0257924100"
+    },
+    "0650": {
+      "men": "LEU0258044300",
+      "women": "LEU0257987700",
+      "women_pct_of_men": "LEU0257924200"
+    },
+    "0725": {
+      "men": "LEU0258044600",
+      "women": "LEU0257988000",
+      "women_pct_of_men": "LEU0257924500"
+    },
+    "0726": {
+      "men": "LEU0258044700",
+      "women": "LEU0257988100",
+      "women_pct_of_men": "LEU0257924600"
+    },
+    "0735": {
+      "men": "LEU0258044800",
+      "women": "LEU0257988200",
+      "women_pct_of_men": "LEU0257924700"
+    },
+    "0740": {
+      "men": "LEU0258044900",
+      "women": "LEU0257988300",
+      "women_pct_of_men": "LEU0257924800"
+    },
+    "1005": {
+      "men": "LEU0258046400",
+      "women": "LEU0257989800",
+      "women_pct_of_men": "LEU0257926300"
+    },
+    "1006": {
+      "men": "LEU0258046500",
+      "women": "LEU0257989900",
+      "women_pct_of_men": "LEU0257926400"
+    },
+    "1007": {
+      "men": "LEU0258046600",
+      "women": "LEU0257990000",
+      "women_pct_of_men": "LEU0257926500"
+    },
+    "1030": {
+      "men": "LEU0258046900",
+      "women": "LEU0257990300",
+      "women_pct_of_men": "LEU0257926800"
+    },
+    "1106": {
+      "men": "LEU0258047300",
+      "women": "LEU0257990700",
+      "women_pct_of_men": "LEU0257927200"
+    },
+    "1107": {
+      "men": "LEU0258047400",
+      "women": "LEU0257990800",
+      "women_pct_of_men": "LEU0257927300"
+    },
+    "1660": {
+      "men": "LEU0258050700",
+      "women": "LEU0257994100",
+      "women_pct_of_men": "LEU0257930600"
+    },
+    "1815": {
+      "men": "LEU0258051400",
+      "women": "LEU0257994800",
+      "women_pct_of_men": "LEU0257931300"
+    },
+    "1950": {
+      "men": "LEU0258052400",
+      "women": "LEU0257995800",
+      "women_pct_of_men": "LEU0257932300"
+    },
+    "1965": {
+      "men": "LEU0258052500",
+      "women": "LEU0257995900",
+      "women_pct_of_men": "LEU0257932400"
+    },
+    "2015": {
+      "men": "LEU0258052900",
+      "women": "LEU0257996300",
+      "women_pct_of_men": "LEU0257932800"
+    },
+    "2016": {
+      "men": "LEU0258053000",
+      "women": "LEU0257996400",
+      "women_pct_of_men": "LEU0257932900"
+    },
+    "2025": {
+      "men": "LEU0258053100",
+      "women": "LEU0257996500",
+      "women_pct_of_men": "LEU0257933000"
+    },
+    "2105": {
+      "men": "LEU0258053700",
+      "women": "LEU0257997100",
+      "women_pct_of_men": "LEU0257933600"
+    },
+    "3235": {
+      "men": "LEU0258058900",
+      "women": "LEU0258002300",
+      "women_pct_of_men": "LEU0257938800"
+    },
+    "3256": {
+      "men": "LEU0258059300",
+      "women": "LEU0258002700",
+      "women_pct_of_men": "LEU0257939200"
+    },
+    "3257": {
+      "men": "LEU0257869800",
+      "women": "LEU0258002800"
+    },
+    "3258": {
+      "men": "LEU0258059500",
+      "women": "LEU0258002900",
+      "women_pct_of_men": "LEU0257939400"
+    },
+    "3420": {
+      "men": "LEU0258060100",
+      "women": "LEU0258003500",
+      "women_pct_of_men": "LEU0257940000"
+    },
+    "3645": {
+      "men": "LEU0258061400",
+      "women": "LEU0258004800",
+      "women_pct_of_men": "LEU0257941300"
+    },
+    "3646": {
+      "men": "LEU0258061500",
+      "women": "LEU0258004900",
+      "women_pct_of_men": "LEU0257941400"
+    },
+    "3647": {
+      "men": "LEU0258061600",
+      "women": "LEU0258005000",
+      "women_pct_of_men": "LEU0257941500"
+    },
+    "3648": {
+      "men": "LEU0258061700",
+      "women": "LEU0258005100",
+      "women_pct_of_men": "LEU0257941600"
+    },
+    "3649": {
+      "men": "LEU0258061800",
+      "women": "LEU0258005200",
+      "women_pct_of_men": "LEU0257941700"
+    },
+    "3655": {
+      "men": "LEU0258061900",
+      "women": "LEU0258005300",
+      "women_pct_of_men": "LEU0257941800"
+    },
+    "3945": {
+      "men": "LEU0258063700",
+      "women": "LEU0258007100",
+      "women_pct_of_men": "LEU0257943600"
+    },
+    "3955": {
+      "men": "LEU0258063800",
+      "women": "LEU0258007200",
+      "women_pct_of_men": "LEU0257943700"
+    },
+    "4465": {
+      "men": "LEU0258067000",
+      "women": "LEU0258010400",
+      "women_pct_of_men": "LEU0257946900"
+    },
+    "5165": {
+      "men": "LEU0258071300",
+      "women": "LEU0258014700",
+      "women_pct_of_men": "LEU0257951200"
+    },
+    "6005": {
+      "men": "LEU0258075600",
+      "women": "LEU0258019000",
+      "women_pct_of_men": "LEU0257955500"
+    },
+    "6540": {
+      "men": "LEU0258078800",
+      "women": "LEU0258022200",
+      "women_pct_of_men": "LEU0257958700"
+    },
+    "7440": {
+      "men": "LEU0258083500",
+      "women": "LEU0258026900",
+      "women_pct_of_men": "LEU0257963400"
+    },
+    "7855": {
+      "men": "LEU0258085700",
+      "women": "LEU0258029100",
+      "women_pct_of_men": "LEU0257965600"
+    },
+    "8255": {
+      "men": "LEU0258088000",
+      "women": "LEU0258031400",
+      "women_pct_of_men": "LEU0257967900"
+    },
+    "8256": {
+      "men": "LEU0258088100",
+      "women": "LEU0258031500",
+      "women_pct_of_men": "LEU0257968000"
+    },
+    "9050": {
+      "men": "LEU0258093100",
+      "women": "LEU0258036500",
+      "women_pct_of_men": "LEU0257973000"
+    },
+    "9415": {
+      "men": "LEU0258094800",
+      "women": "LEU0258038200",
+      "women_pct_of_men": "LEU0257974700"
+    }
+  },
+  "by_industry": {
+    "0000": {
+      "men": "LEU0258188900",
+      "women": "LEU0258188400",
+      "women_pct_of_men": "LEU0257978300"
+    },
+    "6068": {
+      "men": "LEU0259641200",
+      "women": "LEU0259643900",
+      "women_pct_of_men": "LEU0259645400"
+    },
+    "6069": {
+      "men": "LEU0259641300",
+      "women": "LEU0259644000",
+      "women_pct_of_men": "LEU0259645500"
+    },
+    "0569": {
+      "men": "LEU0259641400",
+      "women": "LEU0259644100",
+      "women_pct_of_men": "LEU0259645600"
+    },
+    "6468": {
+      "men": "LEU0259641500",
+      "women": "LEU0259644200",
+      "women_pct_of_men": "LEU0259645700"
+    },
+    "6867": {
+      "men": "LEU0259642800",
+      "women": "LEU0259645800",
+      "women_pct_of_men": "LEU0259647400"
+    },
+    "6868": {
+      "men": "LEU0259642900",
+      "women": "LEU0259645900",
+      "women_pct_of_men": "LEU0259647500"
+    },
+    "7069": {
+      "men": "LEU0259643000",
+      "women": "LEU0259646000",
+      "women_pct_of_men": "LEU0259647600"
+    },
+    "7268": {
+      "men": "LEU0259643100",
+      "women": "LEU0259646100",
+      "women_pct_of_men": "LEU0259647700"
+    },
+    "7269": {
+      "men": "LEU0259644700",
+      "women": "LEU0259647800",
+      "women_pct_of_men": "LEU0259649900"
+    },
+    "7569": {
+      "men": "LEU0259644800",
+      "women": "LEU0259647900",
+      "women_pct_of_men": "LEU0259650000"
+    },
+    "7858": {
+      "men": "LEU0259644900",
+      "women": "LEU0259648000",
+      "women_pct_of_men": "LEU0259650100"
+    },
+    "7859": {
+      "men": "LEU0259645000",
+      "women": "LEU0259648100",
+      "women_pct_of_men": "LEU0259650200"
+    },
+    "7968": {
+      "men": "LEU0259648200",
+      "women": "LEU0259652000",
+      "women_pct_of_men": "LEU0259653400"
+    },
+    "8558": {
+      "men": "LEU0259648300",
+      "women": "LEU0259652100",
+      "women_pct_of_men": "LEU0259653500"
+    },
+    "8559": {
+      "men": "LEU0259648400",
+      "women": "LEU0259652200",
+      "women_pct_of_men": "LEU0259653600"
+    },
+    "0168": {
+      "men": "LEU0259651200",
+      "women": "LEU0259657900"
+    },
+    "0369": {
+      "men": "LEU0259651300",
+      "women_pct_of_men": "LEU0259656800",
+      "women": "LEU0259658000"
+    },
+    "0770": {
+      "men": "LEU0259651400",
+      "women_pct_of_men": "LEU0259656900",
+      "women": "LEU0259658100"
+    },
+    "2467": {
+      "men": "LEU0259651500",
+      "women_pct_of_men": "LEU0259657000",
+      "women": "LEU0259658200"
+    },
+    "8658": {
+      "men": "LEU0259652300",
+      "women": "LEU0259653800",
+      "women_pct_of_men": "LEU0259654900"
+    },
+    "8767": {
+      "men": "LEU0259653000",
+      "women": "LEU0259654500",
+      "women_pct_of_men": "LEU0259655100"
+    },
+    "8768": {
+      "men": "LEU0259653100",
+      "women": "LEU0259654600",
+      "women_pct_of_men": "LEU0259655200"
+    },
+    "9290": {
+      "men": "LEU0259653200",
+      "women": "LEU0259654700",
+      "women_pct_of_men": "LEU0259655300"
+    },
+    "9369": {
+      "men": "LEU0259653300",
+      "women": "LEU0259654800",
+      "women_pct_of_men": "LEU0259655400"
+    },
+    "2468": {
+      "women": "LEU0259655900",
+      "women_pct_of_men": "LEU0259656300",
+      "men": "LEU0259657100"
+    },
+    "4067": {
+      "women": "LEU0259656000",
+      "women_pct_of_men": "LEU0259656400",
+      "men": "LEU0259657200"
+    },
+    "4068": {
+      "women": "LEU0259656100",
+      "women_pct_of_men": "LEU0259656500",
+      "men": "LEU0259657300"
+    },
+    "4669": {
+      "women": "LEU0259656200",
+      "women_pct_of_men": "LEU0259656600",
+      "men": "LEU0259657400"
+    },
+    "0169": {
+      "women_pct_of_men": "LEU0259656700"
+    },
+    "1068": {
+      "men": "LEU0259659100",
+      "women": "LEU0259659200",
+      "women_pct_of_men": "LEU0259659300"
+    }
+  }
+}

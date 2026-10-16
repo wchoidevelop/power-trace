@@ -1,0 +1,122 @@
+[
+  {
+    "indy_code": "0000",
+    "indy_text": "All Industries"
+  },
+  {
+    "indy_code": "0168",
+    "indy_text": "Agriculture and related industries"
+  },
+  {
+    "indy_code": "0369",
+    "indy_text": "Mining, quarrying, and oil and gas extraction"
+  },
+  {
+    "indy_code": "0569",
+    "indy_text": "Utilities"
+  },
+  {
+    "indy_code": "0770",
+    "indy_text": "Construction"
+  },
+  {
+    "indy_code": "1068",
+    "indy_text": "Nondurable goods manufacturing"
+  },
+  {
+    "indy_code": "2467",
+    "indy_text": "Manufacturing"
+  },
+  {
+    "indy_code": "2468",
+    "indy_text": "Durable goods manufacturing"
+  },
+  {
+    "indy_code": "4067",
+    "indy_text": "Wholesale and retail trade"
+  },
+  {
+    "indy_code": "4068",
+    "indy_text": "Wholesale trade"
+  },
+  {
+    "indy_code": "4669",
+    "indy_text": "Retail trade"
+  },
+  {
+    "indy_code": "6068",
+    "indy_text": "Transportation and utilities"
+  },
+  {
+    "indy_code": "6069",
+    "indy_text": "Transportation and warehousing"
+  },
+  {
+    "indy_code": "6468",
+    "indy_text": "Information"
+  },
+  {
+    "indy_code": "6867",
+    "indy_text": "Financial activities"
+  },
+  {
+    "indy_code": "6868",
+    "indy_text": "Finance and insurance"
+  },
+  {
+    "indy_code": "7069",
+    "indy_text": "Real estate and rental and leasing"
+  },
+  {
+    "indy_code": "7268",
+    "indy_text": "Professional and business services"
+  },
+  {
+    "indy_code": "7269",
+    "indy_text": "Professional and technical services"
+  },
+  {
+    "indy_code": "7569",
+    "indy_text": "Management, administrative, and waste services"
+  },
+  {
+    "indy_code": "7858",
+    "indy_text": "Education and health services"
+  },
+  {
+    "indy_code": "7859",
+    "indy_text": "Educational services"
+  },
+  {
+    "indy_code": "7968",
+    "indy_text": "Health care and social assistance"
+  },
+  {
+    "indy_code": "8558",
+    "indy_text": "Leisure and hospitality"
+  },
+  {
+    "indy_code": "8559",
+    "indy_text": "Arts, entertainment, and recreation"
+  },
+  {
+    "indy_code": "8658",
+    "indy_text": "Accommodation and food services"
+  },
+  {
+    "indy_code": "8767",
+    "indy_text": "Other services"
+  },
+  {
+    "indy_code": "8768",
+    "indy_text": "Other services, except private households"
+  },
+  {
+    "indy_code": "9290",
+    "indy_text": "Other services, private households"
+  },
+  {
+    "indy_code": "9369",
+    "indy_text": "Public administration"
+  }
+]

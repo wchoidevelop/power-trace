@@ -1,0 +1,38 @@
+<svg viewBox="-100 -100 600 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="White graph node: central node branching to three outer nodes forming an equilateral triangle inside a hexagon">
+  <defs>
+    <!-- Punches transparent holes at each node center to create donut rings -->
+    <mask id="nodeHoles">
+      <rect x="0" y="0" width="400" height="400" fill="white"/>
+      <circle cx="200" cy="200" r="13" fill="black"/>
+      <circle cx="200" cy="95"  r="13" fill="black"/>
+      <circle cx="290.9" cy="252.5" r="13" fill="black"/>
+      <circle cx="109.1" cy="252.5" r="13" fill="black"/>
+    </mask>
+  </defs>
+
+  <g fill="#aaaaaa" stroke="#aaaaaa" mask="url(#nodeHoles)">
+    <!-- Branches: central node to each outer node -->
+    <g stroke-width="20" stroke-linecap="round">
+      <line x1="200" y1="200" x2="200" y2="95"/>
+      <line x1="200" y1="200" x2="290.9" y2="252.5"/>
+      <line x1="200" y1="200" x2="109.1" y2="252.5"/>
+    </g>
+
+    <!-- Equilateral triangle connecting the three outer nodes -->
+    <g stroke-width="16" stroke-linejoin="round" fill="none">
+      <polygon points="200,95 290.9,252.5 109.1,252.5"/>
+    </g>
+
+    <!-- Node disks -->
+    <g stroke="none">
+      <circle cx="200" cy="200" r="27"/>
+      <circle cx="200" cy="95"  r="27"/>
+      <circle cx="290.9" cy="252.5" r="27"/>
+      <circle cx="109.1" cy="252.5" r="27"/>
+    </g>
+  </g>
+
+  <!-- Hexagon frame -->
+  <polygon points="200,30 347.2,115 347.2,285 200,370 52.8,285 52.8,115"
+           fill="none" stroke="#aaaaaa" stroke-width="9" stroke-linejoin="round"/>
+</svg>

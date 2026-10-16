@@ -1,0 +1,8 @@
+.claude
+.vscode
+android/
+node_modules/
+ios/
+.expo/
+*.apk
+*.aab

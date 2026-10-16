@@ -1,0 +1,335 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Power Trace — Project Overview</title>
+<style>
+  @page { size: Letter; margin: 15mm 16mm; }
+
+  :root {
+    --ink: #14141a;
+    --muted: #52525b;
+    --faint: #8a8a94;
+    --rule: #d9d9e0;
+    --accent: #4f46e5;
+    --wash: #f4f4fb;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    font-family: "Segoe UI", -apple-system, system-ui, sans-serif;
+    font-size: 10.2pt;
+    line-height: 1.5;
+    color: var(--ink);
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  h1 { font-size: 23pt; letter-spacing: -0.6px; margin: 0; font-weight: 700; }
+  h2 {
+    font-size: 11.5pt; letter-spacing: 0.5px; text-transform: uppercase;
+    color: var(--accent); margin: 0 0 7px; font-weight: 700;
+    border-bottom: 1.5px solid var(--rule); padding-bottom: 4px;
+  }
+  h3 { font-size: 10.4pt; margin: 0 0 2px; font-weight: 700; }
+  p { margin: 0 0 7px; }
+
+  .tagline { font-size: 11.5pt; color: var(--muted); margin-top: 5px; }
+
+  header { border-bottom: 2.5px solid var(--accent); padding-bottom: 11px; margin-bottom: 16px; }
+  .byline {
+    display: flex; justify-content: space-between; align-items: flex-end;
+    gap: 16px; margin-top: 11px; font-size: 9.3pt; color: var(--muted);
+  }
+  .byline strong { color: var(--ink); font-size: 10.2pt; }
+
+  section { margin-bottom: 15px; page-break-inside: avoid; }
+
+  .lede {
+    background: var(--wash); border-left: 3px solid var(--accent);
+    padding: 10px 13px; margin-bottom: 16px; font-size: 10.4pt;
+  }
+  .lede p:last-child { margin-bottom: 0; }
+
+  .stages { border-collapse: collapse; width: 100%; margin-top: 3px; }
+  .stages td { padding: 5px 0; vertical-align: top; border-bottom: 1px solid #ececf2; }
+  .stages tr:last-child td { border-bottom: none; }
+  .stage-n {
+    width: 20px; color: var(--accent); font-weight: 700; font-variant-numeric: tabular-nums;
+  }
+  .stage-name { width: 118px; font-weight: 600; padding-right: 10px; }
+  .stage-desc { color: var(--muted); }
+
+  ul { margin: 3px 0 0; padding-left: 15px; }
+  li { margin-bottom: 5px; }
+  li::marker { color: var(--accent); }
+
+  .cols { display: flex; gap: 20px; }
+  .cols > div { flex: 1; }
+
+  .kv { font-size: 9.5pt; color: var(--muted); }
+  .kv b { color: var(--ink); font-weight: 600; }
+
+  .decision { margin-bottom: 8px; }
+  .decision p { color: var(--muted); margin: 0; }
+
+  .stat-row { display: flex; gap: 10px; margin: 9px 0 3px; }
+  .stat {
+    flex: 1; border: 1px solid var(--rule); border-radius: 5px;
+    padding: 7px 9px; text-align: center;
+  }
+  .stat .n { font-size: 14pt; font-weight: 700; color: var(--accent); line-height: 1.15; }
+  .stat .l { font-size: 8pt; color: var(--muted); text-transform: uppercase; letter-spacing: 0.4px; }
+
+  .fill { background: #fff3c4; padding: 0 3px; border-radius: 2px; }
+
+  footer {
+    margin-top: 18px; padding-top: 9px; border-top: 1px solid var(--rule);
+    font-size: 8.6pt; color: var(--faint);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Power Trace</h1>
+  <div class="tagline">
+    A mobile application that maps power structures inside any organization — a company,
+    a club, a congregation — using organizational psychology research and live federal
+    labor-market data.
+  </div>
+  <div class="byline">
+    <div><strong>Wonjun Choi</strong></div>
+    <div style="text-align:right">wchoici2027@gmail.com</div>
+  </div>
+</header>
+
+<div class="lede">
+  <p>
+    Conflict inside an organization is usually explained as a personality problem. More often
+    it is a structural one — a question of who holds which kind of leverage, and who has to
+    route through whom. <b>Power Trace</b> asks a user to describe their organization in plain
+    language, scores every role across the six bases of social power established by French
+    and Raven (1959), audits the resulting map for the biases inherent in one person having
+    written all of it, and reads the user's situation against that map. For paid workplaces it
+    adds current U.S. Bureau of Labor Statistics data on the user's industry; for unpaid
+    organizations it says so and reasons without it.
+  </p>
+</div>
+
+<section>
+  <h2>The problem it addresses</h2>
+  <p>
+    People in organizational conflicts routinely misjudge their own leverage. They read a
+    manager's formal authority as total, miss the colleague whose control over information
+    decides what leadership ever hears, and assume that leaving is an option when their sector's
+    hiring has effectively frozen. Each of those is a known, well-studied phenomenon with decades
+    of research behind it — but that research sits in academic literature, not in the hands of
+    the person at 9 p.m. deciding whether to send the email.
+  </p>
+  <p>
+    The gap is not information; it is application. Power Trace exists to apply established
+    frameworks to one specific situation, and to be honest about the limits of doing so. It began
+    as an attempt to make sense of one real organization, where the formal structure explained
+    almost nothing about who actually decided things.
+  </p>
+</section>
+
+<section>
+  <h2>How it works</h2>
+  <p style="color:var(--muted)">
+    Six stages. Each narrows the uncertainty left by the last, and the map is audited before
+    anything is built on it.
+  </p>
+  <table class="stages">
+    <tr>
+      <td class="stage-n">1</td>
+      <td class="stage-name">Describe</td>
+      <td class="stage-desc">The user describes their organization, the roles in it, and their own position, in ordinary language.</td>
+    </tr>
+    <tr>
+      <td class="stage-n">2</td>
+      <td class="stage-name">Score</td>
+      <td class="stage-desc">A language model scores every role 0–10 on each of the six power bases — legitimate, reward, coercive, expert, referent, informational — and labels each score as drawn from what the description <i>stated</i>, what it <i>implied</i>, or what had to be <i>assumed</i>.</td>
+    </tr>
+    <tr>
+      <td class="stage-n">3</td>
+      <td class="stage-name">Clarify</td>
+      <td class="stage-desc">A second pass reads the whole map and writes targeted questions about the assumed scores that would actually change the picture — never about scores the description already settled.</td>
+    </tr>
+    <tr>
+      <td class="stage-n">4</td>
+      <td class="stage-name">Audit</td>
+      <td class="stage-desc">The answers are folded in, and a bias pass checks the account for self-minimization, antagonist inflation, victim framing, and four other documented distortions. Every flag must quote the user's own words and carry the strongest argument that the flag itself is wrong.</td>
+    </tr>
+    <tr>
+      <td class="stage-n">5</td>
+      <td class="stage-name">Contextualize</td>
+      <td class="stage-desc">For paid roles, the user's position is matched to federal occupation and industry classifications by semantic search, then joined to live BLS wage, union-coverage, and labor-turnover data for that sector. Skipped for unpaid organizations, which have no entry in those classifications.</td>
+    </tr>
+    <tr>
+      <td class="stage-n">6</td>
+      <td class="stage-name">Diagnose</td>
+      <td class="stage-desc">The situation is read against the finished map and the market data, producing a structural diagnosis, the two or three research frameworks that actually fit, and a prediction of which response — exit, voice, loyalty, or neglect — the configuration pushes toward, with a better alternative.</td>
+    </tr>
+  </table>
+</section>
+
+<section>
+  <h2>Commercial and non-commercial organizations</h2>
+  <p>
+    French and Raven describe social power, not employment. The same six bases run a company, a
+    school club, a church, a volunteer board, or an online community with moderators, so the
+    power map applies to all of them unchanged. Only the labor-market stage is employment-specific,
+    and it is skipped rather than approximated when it does not apply.
+  </p>
+  <p>
+    The distinction is analytically real, not just a matter of coverage. With no salary to grant
+    and no job to threaten, reward and coercive power shrink in an unpaid organization and
+    influence concentrates in expertise, relationships, and control of information. What makes
+    leaving costly changes with it: in a job that is an economic question the BLS data can speak
+    to, and in a volunteer group it is a social one, so the analysis states which it is reasoning
+    about rather than importing employment logic where it does not belong.
+  </p>
+</section>
+
+<section>
+  <h2>Research foundation</h2>
+  <p>
+    The analysis draws only from a fixed whitelist of established findings, and citations are
+    attached in code from a reference table rather than generated — a language model asked to
+    produce a citation will eventually invent one.
+  </p>
+  <div class="kv">
+    <p><b>French &amp; Raven (1959); Raven (2004)</b> — the six bases of social power. The scoring
+      model itself: each base rated on potential influence rather than on whether it has been used.</p>
+    <p><b>Raven, Schwarzwald &amp; Koslowsky (1998)</b> — soft versus harsh influence. Harsh bases
+      buy compliance at a cost to satisfaction; the map shows which kind a position runs on.</p>
+    <p><b>Hirschman (1970); Rusbult (1988)</b> — exit, voice, loyalty, neglect. The four responses
+      to dissatisfaction, and the app's central prediction.</p>
+    <p><b>Edmondson (1999)</b> — psychological safety. Whether raising a problem is survivable,
+      which usually decides between voice and silence.</p>
+    <p><b>Adams (1965); Greenberg (1987)</b> — equity theory and organizational justice. Perceived
+      fairness of outcomes, and of the process that produced them.</p>
+    <p><b>Ross (1977); Tajfel &amp; Turner (1979)</b> — fundamental attribution error and social
+      identity. Why an adversary's behavior reads as character rather than circumstance.</p>
+    <p><b>Milgram (1963); Asch (1951); Darley &amp; Latané (1968); Janis (1972)</b> — obedience,
+      conformity, diffused responsibility, groupthink. Why bystanders stay quiet.</p>
+    <p><b>Tepper (2000); Cortina et al. (2001)</b> — abusive supervision and workplace incivility,
+      for the low-grade patterns that are hard to name.</p>
+    <p><b>Hofstede (1980); Festinger (1957); Goffman (1959)</b> — power distance, cognitive
+      dissonance, impression management.</p>
+  </div>
+</section>
+
+<section>
+  <h2>Labor-market integration</h2>
+  <p>
+    The app pulls directly from two Bureau of Labor Statistics programs: the Current Population
+    Survey, for median weekly earnings by sex and union coverage in the user's industry and
+    occupation, and the Job Openings and Labor Turnover Survey, for hires, quits, layoffs, and
+    openings in their sector.
+  </p>
+  <p>
+    A raw turnover rate is meaningless across industries — quits run near 4–5% a month in leisure
+    and hospitality and near 2% in information — so every rate is positioned before it is shown
+    or sent to the model: a z-score against that same sector's 2015–2019 pre-pandemic mean, a
+    percentile against nineteen years of its own history, and three- and twelve-month changes.
+    The app then classifies the sector as tight, frozen, contracting, reallocating, or balanced,
+    a joint read of hiring and separations. That distinction is what makes the advice honest: in
+    a frozen market, openings can look healthy while almost nobody actually moves, so treating
+    exit as leverage would be wrong.
+  </p>
+  <div class="stat-row">
+    <div class="stat"><div class="n">2,205</div><div class="l">BLS series indexed</div></div>
+    <div class="stat"><div class="n">1,447</div><div class="l">occupation records</div></div>
+    <div class="stat"><div class="n">881</div><div class="l">classification mappings</div></div>
+    <div class="stat"><div class="n">19 yrs</div><div class="l">of history per rate</div></div>
+  </div>
+</section>
+
+<section>
+  <h2>Technical architecture</h2>
+  <div class="cols">
+    <div>
+      <h3>Mobile client</h3>
+      <p class="kv">
+        React Native 0.81 on Expo 54, TypeScript, file-based routing with Expo Router.
+        Runs on iOS, Android, and web from one codebase. Custom theming with light
+        and dark modes; animation via Reanimated. Analyses are saved locally on the
+        device, and can be reopened and reviewed step by step.
+      </p>
+    </div>
+    <div>
+      <h3>API server</h3>
+      <p class="kv">
+        Next.js 16 route handlers on React 19, TypeScript throughout. MongoDB Atlas
+        provides vector search over occupation definitions for role classification.
+        The OpenAI Responses API is used with Zod-derived structured-output schemas,
+        so every model response is validated against a type before it is trusted.
+      </p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Engineering decisions</h2>
+  <div class="decision">
+    <h3>Arithmetic belongs in code, not in the model</h3>
+    <p>The composite power index is computed from the six scores by a pure function with fixed weights. A model asked to produce a weighted average will produce a plausible one, and plausible is not the same as correct.</p>
+  </div>
+  <div class="decision">
+    <h3>Provenance instead of self-reported confidence</h3>
+    <p>Each score is labelled stated, implied, or assumed. That is a fact about the input text, checkable by re-reading it — unlike a model's own confidence estimate, which is introspection and poorly calibrated. The questionnaire stage then works from provenance rather than from where a score happens to sit on the scale, since a confident 5 is a real mid-range finding and an assumed 9 is still an assumption.</p>
+  </div>
+  <div class="decision">
+    <h3>Every bias flag carries the case against itself</h3>
+    <p>The audit must quote the user's own words and state the strongest reading in which the flag is wrong and the account is simply accurate. Both are shown. A tool that tells someone their experience is a distortion, without argument, would do real harm — particularly since retaliation and targeting are genuine workplace phenomena, not only perceptions.</p>
+  </div>
+  <div class="decision">
+    <h3>"No answer" is an answer</h3>
+    <p>Asked to classify a swimming club against federal occupation codes, the classifier correctly returns nothing — no published classification describes unpaid work. The first version treated that as a failure and showed an error, because it then requested zero data series and the server rejected the empty request. It now reports plainly that no labor data applies and continues without it. Distinguishing "this went wrong" from "there is nothing here" is most of what makes the non-commercial case work.</p>
+  </div>
+  <div class="decision">
+    <h3>Failure handling matched to cost</h3>
+    <p>Every network call can fail and be retried, but the retry policy differs by what is being retried. Free, idempotent data pulls retry automatically with exponential backoff. Reasoning calls that run over a minute never retry on their own: aborting the request does not cancel the work on the server, so an automatic retry would run a second analysis alongside the first and bill for both. There, retrying is the user's decision.</p>
+  </div>
+</section>
+
+<section>
+  <h2>Privacy and ethics</h2>
+  <p>
+    Users describing a workplace conflict are handling sensitive material, often about colleagues
+    who never agreed to any of it. The design reflects that. There are no accounts and no personal
+    details are requested. Nothing a user types is stored on the server — text exists only for the
+    seconds it takes to process a request. Saved analyses live on the user's own device and can be
+    deleted there. The app contains no analytics, tracking, or advertising software of any kind.
+  </p>
+  <p>
+    The terms of service state plainly that this is educational and is not legal, HR, or
+    professional advice, and forbid using it to evaluate employees or build a case against a
+    specific person. Both documents are served from the same source the app reads, so a correction
+    reaches users without waiting on an app release.
+  </p>
+</section>
+
+<section>
+  <h2>Status</h2>
+  <p>
+    The full six-stage pipeline is implemented and working end to end, with the client, API server,
+    labor-data integration, local persistence, and legal documents complete, for both commercial
+    and non-commercial organizations. The project is a working prototype in active development,
+    not yet publicly released. Planned next steps are a public deployment, an accessibility pass,
+    and validating the scoring against described cases where the power structure is already known.
+  </p>
+</section>
+
+<footer>
+  Power Trace is an independent, non-commercial project. It is not affiliated with or endorsed by
+  the U.S. Bureau of Labor Statistics or any other organization whose published data it cites.
+</footer>
+
+</body>
+</html>

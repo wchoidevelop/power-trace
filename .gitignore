@@ -1,0 +1,21 @@
+# Repo-wide safety net; app/ and server/ have their own .gitignore files too.
+
+# env files and secrets
+.env
+.env*
+!.env.example
+*.pem
+*.p8
+*.p12
+*.key
+*.jks
+*.mobileprovision
+
+# dependencies / build output
+node_modules/
+.expo/
+.next/
+
+# OS / editor
+.DS_Store
+Thumbs.db
